@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to the r/IMAX page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We're currently building this out. In the meanwhile, please visit the Internet Archive:
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[List of IMAX Venues (as of May 5th 2024)](https://web.archive.org/web/20240505001340/https://en.wikipedia.org/wiki/List_of_IMAX_venues)
