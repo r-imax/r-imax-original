@@ -1,0 +1,4109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of IMAX venues</title>
+    <ns>0</ns>
+    <id>2407040</id>
+    <revision>
+      <id>1221248644</id>
+      <parentid>1220986941</parentid>
+      <timestamp>2024-04-28T19:45:17Z</timestamp>
+      <contributor>
+        <username>Let'srun</username>
+        <id>44193668</id>
+      </contributor>
+      <comment>Nominated for deletion; see [[:Wikipedia:Articles for deletion/List of IMAX venues (4th nomination)]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="152328" xml:space="preserve">{{Short description|none}}
+&lt;!-- Please do not remove or change this AfD message until the discussion has been closed. --&gt;
+{{AfDM|page=List of IMAX venues (4th nomination)|year=2024|month=April|day=28|substed=yes|origtag=afdx|help=off}}
+&lt;!-- End of AfD message, feel free to edit beyond this point --&gt;
+{{Cleanup rewrite|date=March 2022}}
+{{Use Canadian English|date=July 2020}}
+{{Use dmy dates|date=February 2024}}
+[[File:IMAX blue logo.svg|thumb|Official logo]]
+This is a list of [[IMAX]] venues which feature either [[IMAX with Laser]] 4K projectors and/or [[70 mm film#IMAX (15/70)|15/70&amp;nbsp;mm]] film projectors. Not included are theatres with solely [[2K resolution]] digital [[Xenon arc lamp|xenon]] projectors.
+
+IMAX with Laser locations use one of four types of 4K projector:
+* GT{{efn|name=fn3|Grand Theatre}} Laser: Dual projector system capable of up to 1.43:1 aspect ratio.
+* CoLa{{efn|Commercial Laser}}: Single projector, limited to 1.90:1 aspect ratio.
+* XT: Single projector, limited to 1.90:1 aspect ratio.
+* Dome Laser: Single projector. Used in dome theatres.&lt;ref&gt;{{cite news |title=Fleet Science Center: A New Digital Era At The Heikoff Giant Dome Theatre |url=https://www.kpbs.org/events/2021/10/29/fleet-science-center-a-new-digital-era-at-the-heikoff-giant-dome-theatre |access-date=12 November 2021 |work=kpbs |agency=kpbs.org |date=29 October 2021}}&lt;/ref&gt;
+
+Traditional 15/70&amp;nbsp;mm IMAX locations use [[70 mm film]] projectors, with the film running through the projector(s) horizontally, each frame being 15 [[film perforations|perforations]] wide. 3D presentations are shown using two projectors and either [[linear polarized]] or [[Active shutter 3D system|LCD shutter]] glasses. These locations are capable of displaying [[aspect ratios]] of up to 1.43:1.
+
+IMAX 15/70&amp;nbsp;mm locations use one of five types of film projectors:
+* GT:{{efn|name=fn3}} IMAX 15/70&amp;nbsp;mm 2D film projector.
+* GT3D: IMAX 15/70&amp;nbsp;mm 3D film projector, dual rotor.
+* SR: IMAX 15/70&amp;nbsp;mm 3D film projector{{efn|Usually comes as 2 separate SR projectors synched for 3D or used alternatively when a changeover is involved to play longer films when fully upgraded QTRU is not present. If only one is available, projection is limited to 2D}}, small rotor.
+* GT Dome: IMAX 15/70&amp;nbsp;mm 2D dome film projector.
+* SR Dome: IMAX 15/70&amp;nbsp;mm 2D dome film projector, small rotor.
+
+Some theatres with legacy 1.43:1 screens have single laser projectors or digital projectors; these installations are restricted to projecting at a maximum of 1.90:1.
+
+Dome theatres may indicate one or two screen sizes.  The first (or only) number indicates the screen diameter.  The second number (if present) indicates the screen surface width.
+
+==Europe==
+{| class="wikitable sortable"
+!Country
+!City
+!Location Name
+!Screen Aspect Ratio (AR)
+!Digital Projector
+!Maximum AR for digital projection
+!Film Projector
+!Screen dimensions
+!Commercial films shown?
+|-
+| rowspan="5" |Austria
+|[[Graz]]
+|CineplexX Graz &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CineplexX Graz &amp; IMAX |url=https://www.imax.com/theatre/cineplexx-graz-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|57.1|x|30.2|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Hohenems]]
+|Cineplexx Hohenems &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineplexx Hohenems &amp; IMAX |url=https://www.imax.com/theatre/cineplexx-hohenems-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|55.8|x|30.0|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Vienna]]
+|CineplexX Apollo Vienna &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CineplexX Apollo Vienna &amp; IMAX |url=https://www.imax.com/theatre/cineplexx-apollo-vienna-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|57.8|x|31.2|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Vienna]]
+|CineplexX Donau Plex IMAX Vienna&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CineplexX Donau Plex IMAX Vienna |url=https://www.imax.com/theatre/cineplexx-donau-plex-imax-vienna |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|67.3|x|36.1|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Wiener Neudorf]]
+|CineplexX Westfield SCS &amp; IMAX&lt;ref&gt;{{Cite web |date=15 December 2023 |title=CineplexX Westfield SCS &amp; IMAX |url=https://www.imax.com/theatre/cineplexx-westfield-scs-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="4" |Belgium
+|[[Antwerp]]
+|Kinepolis Mega NV Antwerpen &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kinepolis Mega NV Antwerpen &amp; IMAX |url=https://www.imax.com/theatre/kinepolis-mega-nv-antwerpen-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|65.6|x|36.1|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Brussels]]
+|Kinepolis Brussels &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kinepolis Brussels &amp; IMAX |url=https://www.imax.com/theatre/kinepolis-brussels-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|27.6|x|19.3|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|27.6|19.3}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Citation |title=Making of Kinepolis IMAX Brussel |url=https://www.youtube.com/watch?v=8Vmi3XPcfuo |access-date=2024-02-06 |language=en}}&lt;/ref&gt;
+|Yes
+|-
+|[[Charleroi]]
+|Pathé Charleroi &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathé Charleroi &amp; IMAX |url=https://www.imax.com/theatre/path%C3%A9-charleroi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|22.0|x|16.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.0|16.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2017-01-31 |title=Pathé construira une salle IMAX à Charleroi |url=https://www.sudinfo.be/art/38431/article/2017-01-31/pathe-construira-une-salle-imax-charleroi |access-date=2024-02-06 |website=sudinfo.be |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[Liège]]
+|Kinepolis Liege &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-13 |title=Kinepolis Liege &amp; IMAX |url=https://www.imax.com/theatre/kinepolis-liege-and-imax |access-date=2024-03-17 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT&lt;ref&gt;{{Citation |title=La réalisation d'IMAX Liège
+|url=https://www.youtube.com/watch?v=LG9EI6KtTn0 |access-date=2024-03-17 |language=en}}&lt;/ref&gt;
+|1.90:1
+|
+|{{convert|20.0|x|8.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|20.0|8.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Kinepolis Liège |url=https://kinepolis.be/fr/cinemas/kinepolis-liege/infos/ |access-date=2024-03-19 |website=Kinepolis Liège |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|Czechia
+|[[Prague]]
+|IMAX Theatre, Palac Flora&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Theatre, Palac Flora |url=https://www.imax.com/theatre/imax-theatre-palac-flora |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|{{convert|78.3|x|60.6|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|Finland
+|[[Helsinki]]
+|Finnkino Itis &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Finnkino Itis &amp; IMAX |url=https://www.imax.com/theatre/finnkino-itis-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|76.5|x|43.6|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+| rowspan="22" |France
+|[[Archamps]]
+|Gaumont Archamps &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gaumont Archamps &amp; IMAX |url=https://www.imax.com/theatre/gaumont-archamps-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|25.0|x|14.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|25.0|14.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=Mühlig |first=Carlos |date=2017-11-03 |title=La 5ème salle IMAX Laser de France et la première à Gaumont Archamps ! |url=https://www.daily-movies.ch/imax-laser-de-france-et-la-premiere-a-gaumont-archamps |access-date=2024-02-06 |website=Daily Movies |language=fr-FR}}&lt;/ref&gt;
+|Yes
+|-
+|[[Aubière|Aubiere]]
+|Pathe Cine Dome Aubiere &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Cine Dome Aubiere &amp; IMAX |url=https://www.imax.com/theatre/pathe-cine-dome-aubiere-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|19.00|x|10.33|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|19.0|10.33}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Annuaire des lieux de diffusion du cinéma en Auvergne 2023 |url=https://www.cinema-auvergne.fr/wp-content/uploads/2023/09/annuaire-des-lieux-de-diffusion-du-cinema-en-auvergne-2023.pdf |access-date=2024-02-06 |website=Plein Champ - Association des cinémas indépendants en Auvergne |language=fr-FR}}&lt;/ref&gt;
+|Yes
+|-
+|[[Conflans-Sainte-Honorine]]
+|Pathe Conflans &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Conflans &amp; IMAX |url=https://www.imax.com/theatre/pathe-conflans-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|25.0|x|14.7|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|25.0|14.7}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2017-08-27 |title=Le cinéma Pathé s'offre une salle Imax en novembre |url=https://actu.fr/ile-de-france/conflans-sainte-honorine_78172/le-cinema-pathe-soffre-une-salle-imax-en-novembre_12330697.html |access-date=2024-02-06 |website=actu.fr |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[Grenoble]]
+|Pathe Grenoble &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-11-15 |title=Pathe Grenoble &amp; IMAX |url=https://www.imax.com/theatre/pathe-grenoble-and-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Ivry-sur-Seine]]
+|Cinema Pathe Quai d'Ivry &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema Pathe Quai d'Ivry &amp; IMAX |url=https://www.imax.com/theatre/cinema-pathe-quai-divry-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|21.0|x|11.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|21.0|11.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2010-06-18 |title=Le palmarès des meilleurs cinémas : Pathé Quai d'Ivry |url=https://www.lefigaro.fr/sortir-paris/2010/06/18/03013-20100618ARTFIG00711-le-palmares-des-meilleurs-cinemas-pathe-quai-d-ivry.php |access-date=2024-02-06 |website=Le Figaro |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[La Valette-du-Var]]
+|Pathe La Valette &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe La Valette &amp; IMAX |url=https://www.imax.com/theatre/pathe-la-valette-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|24.38|x|13.67|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|24.38|13.67}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=IMAX Laser, salle VIP, confort optimal et nombreux services |url=https://www.boxofficefrance.fr/focus-carrieres/docs/focus2/CC293_Path%C3%A9%20La%20Valette_Paris_Cin%C3%A9mas%20Gaumont%20Path%C3%A9_Paris%20-%20Path%C3%A9%20La%20Valette.pdf |access-date=2024-02-06 |website=Boxoffice Pro}}&lt;/ref&gt;
+|Yes
+|-
+|[[Les Pennes-Mirabeau|Les Pennes Mirabeau]]
+|Pathe Plan de Campagne &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Plan de Campagne &amp; IMAX |url=https://www.imax.com/theatre/pathe-plan-de-campagne-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|25.0|x|15.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|25.0|15.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2018-10-05 |title=Plan de Campagne : au ciné pour un Imax de plaisir |url=https://www.laprovence.com/article/sorties-loisirs/5182383/plan-de-campagne-au-cine-pour-un-imax-de-plaisir.html?id=5182383 |access-date=2024-02-06 |website=www.laprovence.com |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[Lieusaint, Seine-et-Marne|Lieusaint]]
+|Pathé Carré Sénart  &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Pathé Carré Sénart &amp; IMAX |url=https://www.imax.com/theatre/path%C3%A9-carr%C3%A9-s%C3%A9nart-imax |access-date=2024-03-25 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Marne-la-Vallée]]
+|Gaumont Disney Village &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gaumont Disney Village &amp; IMAX |url=https://www.imax.com/theatre/gaumont-disney-village-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|25.7|x|14.8|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|25.7|14.8}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=Gauthier |first=Rebecca |date=2017-05-14 |title=Un grand cinéma Gaumont au cœur de Disneyland Paris |url=https://radiodisneyclub.fr/cinema-gaumont-disney-village/ |access-date=2024-02-06 |website=radiodisneyclub.fr/ |language=fr-FR}}&lt;/ref&gt;
+|Yes
+|-
+|[[Montpellier]]
+|Gaumont Montpellier Multiplexe &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gaumont Montpellier Multiplexe &amp; IMAX |url=https://www.imax.com/theatre/gaumont-montpellier-multiplexe-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|22.39|x|16.76|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.39|16.76}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Montpellier : l'écran Imax du Gaumont Odysseum sera le plus grand de France |url=https://www.midilibre.fr/2016/05/06/montpellier-l-ecran-imax-du-gaumont-odysseum-sera-le-plus-grand-de-france,1327664.php |access-date=2024-02-06 |website=midilibre.fr |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[Nîmes]]
+|Kinepolis Nimes &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-24 |title=Kinepolis Nimes &amp; IMAX |url=https://www.imax.com/theatre/kinepolis-nimes-and-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|{{convert|17.17|x|9.25|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|17.17|9.25}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref name=":1"&gt;{{Cite web |title=Information about Kinepolis Nîmes |url=https://kinepolis.fr/cinemas/kinepolis-nimes/infos/ |access-date=2024-03-18 |website=Kinepolis France |language=en}}&lt;/ref&gt;
+|Yes
+|-
+|[[Paris]]
+|La Geode&lt;ref&gt;{{Cite web |date=8 October 2023 |title=La Geode |url=https://www.imax.com/theatre/la-geode |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Dome with Laser
+|Dome 1.43:1
+|
+|{{convert|77.9|x|56.8|ft|abbr=on|disp=br|order=flip|m}}
+|
+|-
+|[[Poitiers]]
+|Futuroscope - Arthur the 4D Adventure&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Futuroscope - Arthur the 4D Adventure |url=https://www.imax.com/theatre/futuroscope-arthur-4d-adventure |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX Dome 15/70&amp;nbsp;mm 3D
+|25.00m.................-
+|No
+|-
+|[[Poitiers]]
+|Futuroscope - Kinemax IMAX Theatre&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Futuroscope - Dome Theatre |url=https://www.imax.com/theatre/futuroscope-dome-theatre |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|27.2|x|21.4|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|27.2|21.4}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2019-10-11 |title=IMAX : l'expérience cinéma ultime |url=https://www.son-video.com/guide/imax-lexperience-cinema-ultime |access-date=2024-02-06 |website=Son-vidéo.com |language=fr-FR}}&lt;/ref&gt;
+|No
+|-
+|[[Rouen]]
+|Gaumont Rouen Grand Quevilly &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gaumont Rouen Grand Quevilly &amp; IMAX |url=https://www.imax.com/theatre/gaumont-rouen-grand-quevilly-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|20.30|x|10.45|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|20.3|10.45}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2013-03-16 |title=Cinéma. Vivez l'expérience Imax 3D à Rouen |url=https://actu.fr/normandie/le-grand-quevilly_76322/cinema-vivez-lexperience-imax-3d-a-rouen_296017.html |access-date=2024-02-06 |website=actu.fr |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|Saran
+|Pathe Saran &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Saran &amp; IMAX |url=https://www.imax.com/theatre/pathe-saran-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|22.0|x|12.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.0|12.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=France |first=Centre |date=2017-06-14 |title=Cinéma - L'écran Imax prêt au mois de décembre au Pathé Saran |url=https://www.larep.fr/saran-45770/loisirs/lecran-imax-pret-au-mois-de-decembre-au-pathe-saran_12443151/ |access-date=2024-02-06 |website=www.larep.fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[Thillois]]
+|Gaumont Parc Millesime &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gaumont Parc Millesime &amp; IMAX |url=https://www.imax.com/theatre/gaumont-parc-millesime-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|22.0|x|12.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.0|12.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=refletsactuels.fr |date=2017-10-04 |title=IMAX®, le cinéma en très grand arrive à Reims |url=https://www.refletsactuels.fr/2017100417143-imax-le-cinema-en-tres-grand-arrive-a-reims/ |access-date=2024-02-06 |website=REFLETSACTUELS}}&lt;/ref&gt;
+|Yes
+|-
+|[[Toulouse]]
+|Cinema Gaumont Labège &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema Gaumont Labège &amp; IMAX |url=https://www.imax.com/theatre/gaumont-lab%C3%A8ge-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|25.0|x|15.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|25.0|15.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Au Gaumont-Labège, le nouvel Imax qui décoiffe |url=https://www.ladepeche.fr/article/2018/11/15/2906974-au-gaumont-labege-le-nouvel-imax-qui-decoiffe.html |access-date=2024-02-06 |website=ladepeche.fr |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|[[Toulouse]]
+|IMAX Cite de l'Espace&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Cite d l'Espace |url=https://www.imax.com/theatre/imax-cite-d-lespace |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|21.5|x|17.5|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|21.5|17.5}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=Mathieu |date=2020-07-09 |title=Toulouse. La Cité de l'espace ouvre sa salle IMAX® totalement rénovée |url=https://www.toulouseblog.fr/toulouse-la-cite-de-lespace-ouvre-sa-salle-imax-totalement-renovee/ |access-date=2024-02-06 |website=Toulouseblog.fr |language=fr-FR}}&lt;/ref&gt;
+|No
+|-
+|[[Tours]]
+|Cine Loire &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cine Loire &amp; IMAX |url=https://www.imax.com/theatre/cine-loire-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|61.5|x|34.3|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Valenciennes]]
+|Pathe Valenciennes &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-12 |title=Pathe Valenciennes &amp; IMAX |url=https://www.imax.com/theatre/pathe-valenciennes-and-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Vaulx-en-Velin]]
+|Cinema Pathe Carre de Soie &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema Pathe Carre de Soie &amp; IMAX |url=https://www.imax.com/theatre/cinema-pathe-carre-de-soie-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|17.90|x|9.88|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|17.9|9.88}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=Deligia |first=Florent |date=2010-09-03 |title=Cinéma IMAX à Lyon : la régression numérique |url=https://www.lyoncapitale.fr/culture/cinema-imax-a-lyon-la-regression-numerique |access-date=2024-02-06 |website=Lyon Capitale |language=fr-FR}}&lt;/ref&gt;
+|Yes
+|-
+| rowspan="5" |Germany
+|[[Berlin]]
+|UCI Luxe Mercedes Platz &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=UCI Luxe Mercedes Platz &amp; IMAX |url=https://www.imax.com/theatre/uci-luxe-mercedes-platz-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|22.3|x|13.5|m|abbr=on|disp=br|sigfig=3|ft}}
+|Yes
+|-
+|[[Karlsruhe]]
+|Filmpalast am ZKM &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Filmpalast am ZKM &amp; IMAX |url=https://www.imax.com/theatre/filmpalast-am-zkm-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|22.3|x|15.8|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.3|15.8}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Unser Kino {{!}} IMAX® – Multiplexkino Karlsruhe |url=https://filmpalast.net/unser-kino/ |access-date=2024-02-06 |website=filmpalast.net}}&lt;/ref&gt;
+|Yes
+|-
+|[[Leonberg]]
+|IMAX Leonberg&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Leonberg |url=https://www.imax.com/theatre/imax-leonberg |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|38.8|x|21.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|38.0|21.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Largest permanent IMAX screen unveiled in Germany |url=https://www.guinnessworldrecords.com/news/commercial/2023/1/largest-permanent-imax-screen-unveiled-in-germany-733250 |access-date=2024-02-06 |website=Guinness World Records}}&lt;/ref&gt;
+|Yes
+|-
+|[[Sinsheim]]
+|IMAX 3D, Sinsheim Auto &amp; Technik Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX 3D, Sinsheim Auto &amp; Technik Museum |url=https://www.imax.com/theatre/imax-3d-sinsheim-auto-technik-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|27.0|x|22.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|27.0|22.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref name=":2"&gt;{{Cite web |date=2024-02-06 |title=IMAX 3D Kino Sinsheim {{!}} Sinsheim |url=https://sinsheim.technik-museum.de/de/imax-3d-laser-4k |access-date=2024-02-06 |website=sinsheim.technik-museum.de |language=de}}&lt;/ref&gt;
+|Yes
+|-
+|[[Speyer]]
+|IMAX Dome, Speyer Technik Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome, Speyer Technik Museum |url=https://www.imax.com/theatre/imax-dome-speyer-technik-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|{{convert|78.7|ft|m|abbr=on|disp=br|order=flip}}
+|No
+|-
+|Italy
+|[[Azzano San Paolo]]
+|UCI Cinemas Orio &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=UCI Cinemas Orio &amp; IMAX |url=https://www.imax.com/theatre/uci-cinemas-orio-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|97.0|x|54.0|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|Latvia
+|[[Riga]]
+|Apollo Kino &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Apollo Kino &amp; IMAX |url=https://www.imax.com/theatre/apollo-kino-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Luxembourg
+|[[Kirchberg, Luxembourg|Kirchberg]]
+|Kinepolis Kirchberg &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Kinepolis Kirchberg &amp; IMAX |url=https://www.imax.com/theatre/kinepolis-kirchberg-imax |access-date=2024-03-17 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT&lt;ref&gt;{{Citation |title=IMAX à Kinepolis Kirchberg |url=https://www.youtube.com/watch?v=qenPZU7__Fc |access-date=2024-03-17 |language=en}}&lt;/ref&gt;
+|1.90:1
+|
+|{{convert|17.9|x|9.5|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|17.9|9.5}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref name=":3"&gt;{{Cite web |title=Information about Kinepolis Kirchberg |url=https://kinepolis.lu/en/cinemas/kinepolis-kirchberg/info/ |access-date=2024-03-19 |website=Kinepolis Kirchberg |language=en}}&lt;/ref&gt;
+|Yes
+|-
+| rowspan="6" |Netherlands
+|[[Amsterdam]]
+|Pathe Arena &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Arena &amp; IMAX |url=https://www.imax.com/theatre/pathe-arena-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|67.0|x|34.0|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Arnhem]]
+|Pathe Arnhem &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Arnhem &amp; IMAX |url=https://www.imax.com/theatre/pathe-arnhem-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|68.9|x|39.4|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Eindhoven]]
+|Pathe Eindhoven &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Eindhoven &amp; IMAX |url=https://www.imax.com/theatre/pathe-eindhoven-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|59.0|x|23.0|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Rotterdam]]
+|Pathe Schouwburgplein &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Schouwburgplein &amp; IMAX |url=https://www.imax.com/theatre/pathe-schouwburgplein-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|59.0|x|29.5|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[The Hague]]
+|Pathe Spuimarkt &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Spuimarkt &amp; IMAX |url=https://www.imax.com/theatre/pathe-spuimarkt-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|68.9|x|36.1|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Tilburg]]
+|Pathe Tilburg &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Tilburg &amp; IMAX |url=https://www.imax.com/theatre/pathe-tilburg-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|62.3|x|32.8|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|Norway
+|[[Oslo]]
+|ODEON Oslo &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=ODEON Oslo &amp; IMAX |url=https://www.imax.com/theatre/odeon-oslo-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|79.3|x|44.9|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|Poland
+|[[Kraków|Krakow]]
+|Cinema City Zakopianka &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema City Zakopianka &amp; IMAX |url=https://www.imax.com/theatre/cinema-city-zakopianka-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|79.0|x|57.1|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|Portugal
+|[[Lisbon]]
+|Cinema NOS Colombo &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema NOS Colombo &amp; IMAX |url=https://www.imax.com/theatre/cinema-nos-colombo-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|70.2|x|39.3|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|Serbia
+|[[Belgrade]]
+|CineplexX Galerija Belgrade &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CineplexX Galerija Belgrade &amp; IMAX |url=https://www.imax.com/theatre/cineplexx-galerija-belgrade-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="2" |Spain
+|[[Madrid]]
+|Kinepolis Madrid &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kinepolis Madrid &amp; IMAX |url=https://www.imax.com/theatre/kinepolis-madrid-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|{{convert|20.0|x|8.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|20.0|8.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Information about Kinepolis Madrid Ciudad de la Imagen |url=https://kinepolis.es/cines/kinepolis-madrid-ciudad-de-la-imagen/informacion/ |access-date=2024-03-24 |website=Kinepolis Madrid Ciudad de la Imagen |language=es}}&lt;/ref&gt;
+|Yes
+|-
+|[[Valencia]]
+|L'Hemisferic, Ciudad de las Artes y las Ciencias&lt;ref&gt;{{Cite web |date=8 October 2023 |title=L'Hemisferic, Cuidad de las Artes y las Ciencias |url=https://www.imax.com/theatre/lhemisferic-cuidad-de-las-artes-y-las-ciencias |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|{{convert|78.8|ft|m|abbr=on|disp=br|order=flip}}
+|No
+|-
+| rowspan="2" |Sweden
+|[[Stockholm]]
+|IMAX Cosmonova, Swedish Museum of Natural History&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Cosmonova, Swedish Museum of Natural History |url=https://www.imax.com/theatre/imax-cosmonova |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Dome with Laser
+|Dome 1.43:1
+|
+|{{convert|75.5|ft|m|abbr=on|disp=br|order=flip}}
+|
+|-
+|[[Gothenburg]]
+|Filmstaden Bergakungen &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Filmstaden Bergakungen &amp; IMAX |url=https://www.imax.com/theatre/filmstaden-bergakungen-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="4" |Switzerland
+|[[Chur]]
+|blue Cinema Chur &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=blue Cinema Chur &amp; IMAX |url=https://www.imax.com/theatre/blue-cinema-chur-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Ebikon (Lucerne)|Ebikon-Lucerne]]
+|Pathe Mall of Switzerland &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Pathe Mall of Switzerland &amp; IMAX |url=https://www.imax.com/theatre/pathe-mall-switzerland-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|73.8|x|40.9|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Geneva]]
+|Pathe Balexert &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Pathe Balexert &amp; IMAX |url=https://www.imax.com/theatre/pathe-balexert-imax |access-date=2024-03-07 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Spreitenbach]]
+|Pathe Spreitenbach &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Pathe Spreitenbach &amp; IMAX |url=https://www.imax.com/theatre/pathe-spreitenbach-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="3" |Ukraine
+|[[Kyiv]]
+|Multiplex Lavina Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Multiplex Lavina Mall &amp; IMAX |url=https://www.imax.com/theatre/multiplex-lavina-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+|[[Kyiv]]
+|Planeta Kino River Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Planeta Kino River Mall &amp; IMAX |url=https://www.imax.com/theatre/planeta-kino-river-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+|[[Kyiv]]
+|Respublica IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Respublica IMAX |url=https://www.imax.com/theatre/respublica-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+| rowspan="17" |United Kingdom
+|[[Ashford, Kent|Ashford]]
+|Cineworld Ashford &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Ashford &amp; IMAX |url=https://www.imax.com/theatre/cineworld-ashford-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|74|x|52|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Barnsley]]
+|Cineworld Barnsley &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Barnsley &amp; IMAX |url=https://www.imax.com/theatre/cineworld-barnsley-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Belfast]]
+|Cineworld Belfast &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Belfast &amp; IMAX |url=https://www.imax.com/theatre/cineworld-belfast-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Dunfermline]]
+|ODEON Dunfermline &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=ODEON Dunfermline &amp; IMAX |url=https://www.imax.com/theatre/odeon-dunfermline-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Gateshead]]
+|ODEON Gateshead &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=ODEON Gateshead &amp; IMAX |url=https://www.imax.com/theatre/odeon-gateshead-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|62.3|x|32.8|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Glasgow]]
+|Cineworld Silverburn &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Silverburn &amp; IMAX |url=https://www.imax.com/theatre/cineworld-silverburn-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|79|x|44|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Liverpool]]
+|ODEON Liverpool ONE &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=ODEON Liverpool ONE &amp; IMAX |url=https://www.imax.com/theatre/odeon-liverpool-one-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[London]]
+|BFI IMAX, British Film Institute&lt;ref&gt;{{Cite web |date=8 October 2023 |title=BFI IMAX, British Film Institute |url=https://www.imax.com/theatre/bfi-imax-british-film-institute |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|{{convert|85|x|65|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[London]]
+|Cineworld Leicester Square IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Leicester Square IMAX |url=https://www.imax.com/theatre/cineworld-leicester-square-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|87.0|x|45.8|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[London]]
+|IMAX: The Ronson Theatre at the Science Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX: The Ronson Theatre at the Science Museum |url=https://www.imax.com/theatre/imax-ronson-theatre-science-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|{{convert|24.3|x|16.8|m|abbr=on|disp=br|sigfig=3|ft}}
+|Yes
+|-
+|[[Manchester]]
+|ODEON Trafford Centre &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=ODEON Trafford Centre &amp; IMAX |url=https://www.imax.com/theatre/odeon-trafford-centre-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|58.5|x|31.8|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Manchester]]
+|Vue Manchester IMAX &amp; The Printworks&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Vue Manchester IMAX &amp; The Printworks |url=https://www.imax.com/theatre/vue-manchester-imax-printworks |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|{{convert|86.3|x|61.7|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Rushden]]
+|Cineworld Rushden Lakes &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Rushden Lakes &amp; IMAX |url=https://www.imax.com/theatre/cineworld-rushden-lakes-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|23.8|x|13.2|m|abbr=on|disp=br|sigfig=3|ft}}
+|Yes
+|-
+|[[Sheffield]]
+|Cineworld Sheffield &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Sheffield &amp; IMAX |url=https://www.imax.com/theatre/cineworld-sheffield-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|78.4|x|42.4|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Swindon]]
+|VUE Swindon &amp; IMAX&lt;ref&gt;{{Cite web |date=30 November 2023 |title=VUE Swindon &amp; IMAX |url=https://www.imax.com/theatre/vue-swindon-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Watford]]
+|Cineworld Watford &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld Watford &amp; IMAX |url=https://www.imax.com/theatre/cineworld-watford-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|22.0|x|11.6|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.0|11.6}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Cineworld Cinema - Watford in Watford, GB - Cinema Treasures |url=https://cinematreasures.org/theaters/58946 |access-date=2024-02-04 |website=cinematreasures.org}}&lt;/ref&gt;
+|Yes
+|-
+|[[York]]
+|Cineworld York &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineworld York &amp; IMAX |url=https://www.imax.com/theatre/cineworld-york-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|22.29|x|16.81|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.29|16.81}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=Cineworld York - SIMPSON (York) Limited |url=https://www.simpsonyork.co.uk/cineworld-york/ |access-date=2024-02-04 |website=www.simpsonyork.co.uk}}&lt;/ref&gt;
+|Yes
+|}
+
+==Asia==
+{| class="wikitable sortable"
+!Country
+!Province
+!City
+!Location Name
+!Screen Aspect Ratio (AR)
+!Digital Projector
+!Maximum AR for digital projection
+!Film Projector
+!Screen dimensions
+!Commercial films shown?
+|-
+|Bahrain
+|Muharraq
+|[[Diyar Al Muharraq|Diyar Al-Muharraq]]
+|Reel Cinemas &amp; IMAX&lt;ref&gt;{{Cite web |date=2024-03-22 |title=Reel Cinemas &amp; IMAX |url=https://www.imax.com/theatre/reel-cinemas-and-imax |access-date=2024-03-25 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Cola
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="68" |China
+| rowspan="9" |Beijing
+|[[Chaoyang, Beijing|Chaoyang]]
+|China National Film Museum &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=China National Film Museum &amp; IMAX |url=https://www.imax.com/theatre/china-national-film-museum-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|30.17m×19.51m
+|
+|-
+|[[Chaoyang, Beijing|Chaoyang]]
+|IMAX 3D, China Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX 3D, China Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-3d-china-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;{{efn|name=fn1|Venue might be closed}}
+|1.43:1
+|
+|
+|IMAX GT3D 15/70&amp;nbsp;mm
+|29.58m×21.93m
+|
+|-
+|[[Chaoyang, Beijing|Chaoyang]]
+|IMAX Dome, China Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome, China Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-dome-china-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|30m
+|
+|-
+|[[Chaoyang, Beijing|Chaoyang]]
+|Beijing Emperor Center &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Beijing Emperor Center &amp; IMAX |url=https://www.imax.com/theatre/beijing-emperor-center-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.19 m×11.76m
+|
+|-
+|[[Chaoyang, Beijing|Chaoyang]]
+|Beijing Fangyuanli ID Mall Bona &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Beijing Fangyuanli ID Mall Bona &amp; IMAX |url=https://www.imax.com/theatre/beijing-fangyuanli-id-mall-bona-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.92m×10.9m
+|
+|-
+|[[Fangshan, Beijing|Fangshan]]
+|Beijing Fangshan Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Beijing Fangshan Wanda &amp; IMAX |url=https://www.imax.com/theatre/beijing-fangshan-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.85m×11.76m
+|
+|-
+|[[Haidian, Beijing|Haidian]]
+|Beijing Qinghe CGV &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Beijing Qinghe CGV &amp; IMAX |url=https://www.imax.com/theatre/beijing-qinghe-cgv-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.48m×8.31m
+|
+|-
+|[[Shijingshan, Beijing|Shijingshan]]
+|Beijing Shijingshan Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Beijing Shijingshan Wanda &amp; IMAX |url=https://www.imax.com/theatre/beijing-shijingshan-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.22m×12.68m
+|
+|-
+|[[Tongzhou, Beijing|Tongzhou]]
+|Universal Beijing Resort Universal City Walk &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Universal Beijing Resort Universal City Walk &amp; IMAX |url=https://www.imax.com/theatre/universal-beijing-resort-universal-city-walk-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+| rowspan="2" |Chongqing
+|[[Jiangbei, Chongqing|Jiangbei]]
+|IMAX, Chongqing Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Chongqing Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-chongqing-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|
+|
+|IMAX SR 15/70&amp;nbsp;mm
+|22.00m×16.00m
+|
+|-
+|[[Yuzhong, Chongqing|Yuzhong]]
+|IMAX Dome, Chongqing Children's Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome, Chongqing Children's Museum |url=https://www.imax.com/theatre/imax-dome-chongqing-childrens-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX SR Dome 15/70&amp;nbsp;mm
+|18m
+|
+|-
+| rowspan="2" |Fujian
+|[[Fuzhou]]
+|Fuzhou Strait Culture Art Center Jinyi &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Fuzhou Strait Culture Art Center Jinyi &amp; IMAX |url=https://www.imax.com/theatre/fuzhou-strait-culture-art-center-jinyi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.39m×10.59m
+|
+|-
+|[[Xiamen]]
+|Xiamen Huli Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Xiamen Huli Wanda &amp; IMAX |url=https://www.imax.com/theatre/xiamen-huli-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.18m×10.40m
+|
+|-
+| rowspan="9" |Guangdong
+|[[Dongguan]]
+|IMAX Dome, Dongguan Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome, Dongguan Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-dome-dongguan-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|18m
+|
+|-
+|[[Dongguan]]
+|Dongguan Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Dongguan Wanda &amp; IMAX |url=https://www.imax.com/theatre/dongguan-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|32.06m×19.51m
+|
+|-
+|[[Guangzhou]]
+|Guangzhou New Park Mei Ah &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Guangzhou New Park Mei Ah &amp; IMAX |url=https://www.imax.com/theatre/guangzhou-new-park-mei-ah-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.55m×12.31m
+|
+|-
+|[[Guangzhou]]
+|Guangzhou Rock Square Flying &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Guangzhou Rock Square Flying &amp; IMAX |url=https://www.imax.com/theatre/guangzhou-rock-square-flying-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+|[[Maoming]]
+|Maoming Donghui &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Maoming Donghui &amp; IMAX |url=https://www.imax.com/theatre/maoming-donghui-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+|[[Shenzhen]]
+|Shenzhen One Avenue CGV &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shenzhen One Avenue CGV &amp; IMAX |url=https://www.imax.com/theatre/shenzhen-one-avenue-cgv-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.85m×11.76m
+|
+|-
+|[[Shenzhen]]
+|Shenzhen Maxland Jinyi &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shenzhen Maxland Jinyi &amp; IMAX |url=https://www.imax.com/theatre/shenzhen-maxland-jinyi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.74m×11.80m
+|
+|-
+|[[Shenzhen]]
+|Shenzhen PAFC Mall Emperor &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shenzhen PAFC Mall Emperor &amp; IMAX |url=https://www.imax.com/theatre/shenzhen-pafc-mall-emperor-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.80m×11.00m
+|
+|-
+|[[Shenzhen]]
+|Shenzhen Longgang Tian An MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shenzhen Longgang Tian An MixC &amp; IMAX |url=https://www.imax.com/theatre/shenzhen-longgang-tian-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+|Guangxi
+|[[Nanning]]
+|Nanning Qingxiu Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Nanning Qingxiu Wanda &amp; IMAX |url=https://www.imax.com/theatre/nanning-qingxiu-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.76m×11.67m
+|
+|-
+| rowspan="3" |Guizhou
+|[[Guiyang]]
+|Guiyang The Future Ark Cross &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Guiyang The Future Ark Cross &amp; IMAX |url=https://www.imax.com/theatre/guiyang-future-ark-cross-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|32.16m×18.17m
+|
+|-
+|[[Guiyang]]
+|Guiyang Incity CGV &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Guiyang Incity CGV &amp; IMAX |url=https://www.imax.com/theatre/guiyang-incity-cgv-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.96m×11.94m
+|
+|-
+|[[Guiyang]]
+|Guiyang Zhongda Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Guiyang Zhongda Wanda &amp; IMAX |url=https://www.imax.com/theatre/guiyang-zhongda-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.92m×9.91m
+|
+|-
+|Hebei
+|[[Shijiazhuang]]
+|Shijiazhuang MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shijiazhuang MixC &amp; IMAX |url=https://www.imax.com/theatre/shijiazhuang-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|25.07m×13.90m
+|
+|-
+| rowspan="5" |Heilongjiang
+|[[Daqing]]
+|IMAX, Da Qing Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Da Qing Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-da-qing-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX SR Dome 15/70&amp;nbsp;mm
+|18m
+|
+|-
+|[[Harbin]]
+|IMAX, Heilongjiang Science &amp; Technology Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Heilongjiang Science &amp; Technology Center |url=https://www.imax.com/theatre/imax-heilongjiang-science-technology-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX SR Dome 15/70&amp;nbsp;mm
+|
+|
+|-
+|[[Harbin]]
+|Harbin Tai Lai Era &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Harbin Tai Lai Era &amp; IMAX |url=https://www.imax.com/theatre/harbin-tai-lai-era-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|28.65m×21.30m
+|
+|-
+|[[Harbin]]
+|Harbin MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Harbin MixC &amp; IMAX |url=https://www.imax.com/theatre/harbin-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+|[[Harbin]]
+|Haxi Wanda Plaza IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Haxi Wanda Plaza IMAX |url=https://www.imax.com/theatre/haxi-wanda-plaza-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.54mx11.49m
+|
+|-
+| rowspan="2" |Henan
+|[[Zhengzhou]]
+|Zhengzhou Yoyo Park CGV &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Zhengzhou Yoyo Park CGV &amp; IMAX |url=https://www.imax.com/theatre/zhengzhou-yoyo-park-cgv-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.60mx10.64m
+|
+|-
+|[[Zhengzhou]]
+|Zhengzhou Wanda Erqi &amp; IMAX&lt;ref name="Zhengzhou Wanda Erqi &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=Zhengzhou Wanda Erqi &amp; IMAX |url=https://www.imax.com/theatre/zhengzhou-wanda-erqi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.30mx11.70m
+|
+|-
+| rowspan="2" |Hubei
+|[[Wuhan]]
+|Wuhan Wushang Dream Plaza Moore &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Wuhan Wushang Dream Plaza Moore &amp; IMAX |url=https://www.imax.com/theatre/wuhan-wushang-dream-plaza-moore-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|
+|
+|
+|
+|-
+|[[Wuhan]]
+|Wuhan Wushang Moore &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Wuhan Wushang Moore &amp; IMAX |url=https://www.imax.com/theatre/wuhan-wushang-moore-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.34mx11.10m
+|
+|-
+|Hunan
+|[[Changsha]]
+|Changsha Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Changsha Wanda &amp; IMAX |url=https://www.imax.com/theatre/changsha-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.42mx11.51m
+|
+|-
+| rowspan="8" |Jiangsu
+|Jingjiang City
+|Jingjiang In City CGV &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Jingjiang In City CGV &amp; IMAX |url=https://www.imax.com/theatre/jingjiang-city-cgv-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|
+|-
+|[[Nanjing]]
+|IMAX, Nanjing Juvenile Science &amp; Technology Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Nanjing Juvenile Science &amp; Technology Center |url=https://www.imax.com/theatre/imax-nanjing-juvenile-science-technology-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX SR Dome 15/70&amp;nbsp;mm
+|21m
+|
+|-
+|[[Nanjing]]
+|Nanjing Unimall Omnijoi &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Nanjing Unimall Omnijoi &amp; IMAX |url=https://www.imax.com/theatre/nanjing-unimall-omnijoi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.92mx11.45m
+|
+|-
+|[[Suzhou]]
+|Kunshan MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kunshan MixC &amp; IMAX |url=https://www.imax.com/theatre/kunshan-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.84mx12.30m
+|
+|-
+|[[Wuxi]]
+|Wuxi Livat Jinyi &amp; IMAX
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.22mx12.68m
+|
+|-
+|[[Wuxi]]
+|Wuxi Big World &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Wuxi Big World &amp; IMAX |url=https://www.imax.com/theatre/wuxi-big-world-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.82mx10.83m
+|
+|-
+|[[Wuxi]]
+|Wuxi Yaohan CGV &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Wuxi Yaohan CGV &amp; IMAX |url=https://www.imax.com/theatre/wuxi-yaohan-cgv-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.34mx10.73m
+|
+|-
+|[[Wuxi]]
+|Wuxi Jiangnan Joy City Big World &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Wuxi Jiangnan Joy City Big World &amp; IMAX |url=https://www.imax.com/theatre/wuxi-jiangnan-joy-city-big-world-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|25.00mx13.00m
+|
+|-
+|Jiangxi
+|[[Nanchang]]
+|Nanchang MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Nanchang MixC &amp; IMAX |url=https://www.imax.com/theatre/nanchang-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.98mx9.44m
+|
+|-
+| rowspan="3" |Liaoning
+|[[Dalian]]
+|Dalian Jingkai Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Dalian Jingkai Wanda &amp; IMAX |url=https://www.imax.com/theatre/dalian-jingkai-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.01mx11.51m
+|
+|-
+|[[Shenyang]]
+|Shenyang Olympic Wanda IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shenyang Olympic Wanda IMAX |url=https://www.imax.com/theatre/shenyang-olympic-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.19mx11.61m
+|
+|-
+|[[Shenyang]]
+|IMAX, Liaoning Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Liaoning Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-liaoning-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|28.98mx22.00m
+|
+|-
+|Inner Mongolia
+|[[Hohhot]]
+|Hohhot East Xinhua Road Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Hohhot East Xinhua Road Wanda &amp; IMAX |url=https://www.imax.com/theatre/hohhot-east-xinhua-road-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.24mx10.87m
+|
+|-
+| rowspan="4" |Shandong
+|[[Jinan]]
+|Jinan Gaoxin Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Jinan Gaoxin Wanda &amp; IMAX |url=https://www.imax.com/theatre/jinan-gaoxin-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.02m×11.85m
+|
+|-
+|[[Jinan]]
+|Jinan MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Jinan MixC &amp; IMAX |url=https://www.imax.com/theatre/jinan-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.85m×11.73m
+|
+|-
+|[[Jinan]]
+|Shandong Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shandong Science &amp; Technology Museum |url=https://www.imax.com/theatre/shandong-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX GT Laser
+|
+|
+|
+|
+|-
+|[[Qingdao]]
+|Qingdao Wanda CBD Cinema IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Qingdao Wanda CBD Cinema IMAX |url=https://www.imax.com/theatre/qingdao-wanda-cbd-cinema-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.20m×11.00m
+|
+|-
+| rowspan="7" |Shanghai
+|[[Baoshan, Shanghai|Baoshan]]
+|Wanda Shanghai Baoshan &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Wanda Shanghai Baoshan &amp; IMAX |url=https://www.imax.com/theatre/wanda-shanghai-baoshan-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.05m×10.48m
+|
+|-
+|[[Hongkou, Shanghai|Hongkou]]
+|Jinyi Cinema &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Jinyi Cinema &amp; IMAX |url=https://www.imax.com/theatre/jinyi-cinema-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.82m×8.44m
+|
+|-
+|[[Huangpu, Shanghai|Huangpu]]
+|Shanghai One East Palace &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shanghai One East Palace &amp; IMAX |url=https://www.imax.com/theatre/shanghai-one-east-palace-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.49m×10.11m
+|
+|-
+|[[Jing'an, Shanghai|Jing'an]]
+|Shanghai Daning IMIX Park Hoyts &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shanghai Daning IMIX Park Hoyts &amp; IMAX |url=https://www.imax.com/theatre/shanghai-daning-imix-park-hoyts-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|25.88m×13.46m
+|
+|-
+|[[Jinshan, Shanghai|Jinshan]]
+|Shanghai Jinshan Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shanghai Jinshan Wanda &amp; IMAX |url=https://www.imax.com/theatre/shanghai-jinshan-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|23.16m×12.10m
+|
+|-
+|[[Pudong, Shanghai|Pudong]]
+|IMAX Dome, Shanghai Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome, Shanghai Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-dome-shanghai-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;{{efn|name=fn1}}
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|{{convert|23.0|m|ft|abbr=on|disp=br}}&lt;ref name=":0"&gt;{{Cite web |title=Science Theaters |url=https://en.sstm.org.cn/theaters |access-date=2024-02-05 |website=en.sstm.org.cn/}}&lt;/ref&gt;
+|
+|-
+|[[Pudong, Shanghai|Pudong]]
+|IMAX 3D, Shanghai Science &amp; Technology Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX 3D, Shanghai Science &amp; Technology Museum |url=https://www.imax.com/theatre/imax-3d-shanghai-science-technology-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;{{efn|name=fn1}}
+|1.43:1
+|
+|
+|IMAX GT3D 15/70&amp;nbsp;mm
+|{{convert|24.3|x|18.3|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|24.3|18.3}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref name=":0" /&gt;
+|
+|-
+| rowspan="2" |Shanxi
+|[[Taiyuan]]
+|Taiyuan Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Taiyuan Wanda &amp; IMAX |url=https://www.imax.com/theatre/taiyuan-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|26.51m×14.06m
+|
+|-
+|[[Taiyuan]]
+|Taiyuan MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Taiyuan MixC &amp; IMAX |url=https://www.imax.com/theatre/taiyuan-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.85m×11.86m
+|
+|-
+| rowspan="2" |Sichuan
+|[[Chengdu]]
+|Chengdu MixC Ph2 Broadway &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Chengdu MixC Ph2 Broadway &amp; IMAX |url=https://www.imax.com/theatre/chengdu-mixc-ph2-broadway-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|24.52m×12.80m
+|
+|-
+|[[Chengdu]]
+|Chengdu Shin Kong Plaza Emperor &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Chengdu Shin Kong Plaza Emperor &amp; IMAX |url=https://www.imax.com/theatre/chengdu-shin-kong-plaza-emperor-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.87m×12.46m
+|
+|-
+| rowspan="2" |Yunnan
+|[[Kunming]]
+|Kunming Panxing Dadu LLC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kunming Panxing Dadu LLC &amp; IMAX |url=https://www.imax.com/theatre/kunming-panxing-dadu-llc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|23.10m×17.37m
+|
+|-
+|[[Kunming]]
+|Kunming Xishan Wanda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kunming Xishan Wanda &amp; IMAX |url=https://www.imax.com/theatre/kunming-xishan-wanda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|22.13m×11.66m
+|
+|-
+|Zhejiang
+|[[Ningbo]]
+|Ningbo MixC &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Ningbo MixC &amp; IMAX |url=https://www.imax.com/theatre/ningbo-mixc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|25.88m×13.92m
+|
+|-
+| rowspan="3" |Hong Kong
+| rowspan="3" |Kowloon
+|[[Yau Tsim Mong District|Yau Tsim Mong]]
+|Hongkong ISQUARE Emperor &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Hongkong ISQUARE Emperor &amp; IMAX |url=https://www.imax.com/theatre/hongkong-isquare-emperor-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.94m×11.80m
+|Yes
+|-
+|[[Yau Tsim Mong District|Yau Tsim Mong]]
+|OMNIMAX, Hong Kong Space Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=OMNIMAX, Hong Kong Space Museum |url=https://www.imax.com/theatre/omnimax-hong-kong-space-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|23.00m
+|
+|-
+|[[Yau Tsim Mong District|Yau Tsim Mong]]
+|MCL Cinemas IMAX @ K11 Art House&lt;ref&gt;{{Cite web |title=Movie Showtimes &amp; Tickets {{!}} undefined {{!}} IMAX |url=https://www.imax.com/theatre/hong-kong-k11-art-house-imax |access-date=4 February 2024 |website=www.imax.com}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.70m×11.77m
+|Yes
+|-
+| rowspan="10" |India
+| rowspan="4" |Delhi
+|[[Delhi]]
+|INOX Vishal Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=INOX Vishal Mall &amp; IMAX |url=https://www.imax.com/theatre/inox-vishal-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[New Delhi]]
+|INOX Paras &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=INOX Paras &amp; IMAX |url=https://www.imax.com/theatre/inox-paras-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[New Delhi]]
+|PVR Priya &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=PVR Priya &amp; IMAX |url=https://www.imax.com/theatre/pvr-priya-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[New Delhi]]
+|PVR Select City Walk Gold &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=PVR Select City Walk Gold &amp; IMAX |url=https://www.imax.com/theatre/pvr-select-city-walk-gold-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.30m×9.10m
+|Yes
+|-
+|Gujarat
+|[[Ahmedabad]]
+|IMAX 3D, Gujarat Science City&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX 3D, Gujarat Science City |url=https://www.imax.com/theatre/imax-3d-gujarat-science-city |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|
+|
+|IMAX GT3D 15/70&amp;nbsp;mm
+|29.00m×20.04m
+|No
+|-
+| rowspan="3" |Maharashtra
+|[[Mumbai]]
+|PVR Phoenix IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=PVR Phoenix IMAX |url=https://www.imax.com/theatre/pvr-phoenix-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.10m×9.40m
+|Yes
+|-
+|[[Mumbai]]
+|PVR INOX Jio World Plaza Bkc &amp; IMAX&lt;ref&gt;{{Cite web |date=13 December 2023 |title=PVR INOX Jio World Plaza Bkc &amp; IMAX |url=https://www.imax.com/theatre/pvr-inox-jio-world-plaza-bkc-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Mumbai]]
+|EROS &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-19 |title=EROS &amp; IMAX |url=https://www.imax.com/theatre/eros-and-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|Tamil Nadu
+|[[Coimbatore]]
+|Broadway Megaaplex &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Broadway Megaaplex &amp; IMAX |url=https://www.imax.com/theatre/broadway-megaaplex-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|Uttar Pradesh
+|[[Noida]]
+|PVR Superplex Mall of India &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=PVR Superplex Mall of India &amp; IMAX |url=https://www.imax.com/theatre/pvr-superplex-mall-india-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|21.50m×12.10m
+|Yes
+|-
+| rowspan="9" |Indonesia
+| rowspan="2" |Banten
+|[[South Tangerang]]
+|Bintaro Xchange 2 XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=11 January 2024 |title=Bintaro Xchange 2 &amp; IMAX |url=https://www.imax.com/theatre/bintaro-xchange-2-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Tangerang]]
+|Alam Sutera XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=2024-03-28 |title=Alam Sutera XXI &amp; IMAX |url=https://www.imax.com/theatre/alam-sutera-xxi-and-imax |access-date=2024-03-30 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="3" | DKI Jakarta
+|[[South Jakarta]]
+|Gandaria City XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gandaria XXI IMAX |url=https://www.imax.com/theatre/21-cineplex-gandaria-xxi |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.40m×10.80m
+|Yes
+|-
+|[[East Jakarta]]
+|Keong Emas IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Keong Emas IMAX |url=https://www.imax.com/theatre/keong-emas-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|
+|
+|IMAX GT3D 15/70&amp;nbsp;mm
+|29.30m×21.50m
+|No
+|-
+|[[North Jakarta]]
+|Kelapa Gading XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Gading 21 XXI IMAX |url=https://www.imax.com/theatre/21-cineplex-gading-xxi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.60m×14.30m
+|Yes
+|-
+|Central Java
+|[[Semarang]]
+|The Park Semarang XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=27 October 2023 |title=The Park Semarang XXI &amp; IMAX |url=https://www.imax.com/theatre/the-park-semarang-xxi-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="3" | West Java
+|[[Bandung]]
+|Summarecon Mall Bandung XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=11 January 2024 |title=Summarecon Mall Bandung &amp; IMAX |url=https://www.imax.com/theatre/summarecon-mall-bandung-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Cikarang]]
+|AEON Mall Deltamas &amp; IMAX&lt;ref&gt;{{Cite web |date=2024-03-21 |title=AEON Mall Deltamas &amp; IMAX |url=https://www.imax.com/theatre/aeon-mall-deltamas-and-imax |access-date=2024-03-30 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Depok]]
+|Margo City XXI &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema XXI Margo Mall &amp; IMAX |url=https://www.imax.com/theatre/cinema-xxi-margo-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="29" |Japan
+| rowspan="3" |Chūbu
+|[[Gifu]]
+|Aeon Kakamigahara &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Aeon Kakamigahara &amp; IMAX |url=https://www.imax.com/theatre/aeon-kakamigahara-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Nagoya]]
+|109 Cinemas Nagoya &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Nagoya &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-nagoya-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.10m×8.80m
+|Yes
+|-
+|[[Shizuoka Prefecture]]
+|Cinema Sunshine Lalaport Numazu &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinema Sunshine Lalaport Numazu &amp; IMAX |url=https://www.imax.com/theatre/cinema-sunshine-lalaport-numazu-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Chūgoku
+|[[Okayama]]
+|Aeon Okayama &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Aeon Okayama &amp; IMAX |url=https://www.imax.com/theatre/aeon-okayama-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Hokkaido
+|[[Hokkaido]]
+|United Cinemas Sapporo Factory &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=United Cinemas Sapporo Factory &amp; IMAX |url=https://www.imax.com/theatre/united-cinemas-sapporo-factory-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|24.90m×13.90m
+|Yes
+|-
+|Okinawa
+|[[Okinawa Prefecture|Okinawa]]
+|United Cinemas Parco City Urasoe &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=United Cinemas Parco City Urasoe &amp; IMAX |url=https://www.imax.com/theatre/united-cinemas-parco-city-urasoe-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="3" |Kansai
+|[[Nara Prefecture]]
+|IMAX Cinema Sunshine Yamatokoriyama&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Cinema Sunshine Yamatokoriyama |url=https://www.imax.com/theatre/imax-cinema-sunshine-yamatokoriyama |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.30m×9.60m
+|Yes
+|-
+|[[Osaka]]
+|109 Cinemas Osaka Expocity &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Osaka Expocity &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-osaka-expocity-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|26.00m×18.00m
+|Yes
+|-
+|[[Osaka]]
+|AEON Shijonawate &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AEON Shijonawate &amp; IMAX |url=https://www.imax.com/theatre/aeon-shijonawate-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="17" |Kantō
+|[[Chiba Prefecture|Chiba]]
+|AEON Ichikawa Myoden &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AEON Ichikawa Myoden &amp; IMAX |url=https://www.imax.com/theatre/aeon-ichikawa-myoden-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Chiba Prefecture|Chiba]]
+|TOHO Nagareyama-Takanomori &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TOHO Nagareyama-Takanomori &amp; IMAX |url=https://www.imax.com/theatre/toho-nagareyama-takanomori-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Chiba Prefecture|Chiba]]
+|Aeon Makuhari Shin-toshin &amp; IMAX&lt;ref&gt;{{Cite web |date=7 March 2024 |title=Aeon Makuhari Shin-toshin &amp; IMAX|url=https://www.imax.com/en/jp/theatre/aeon-makuhari-shin-toshin-imax|access-date=7 March 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Chiyoda, Tokyo|Chiyodaku]]
+|TOHO Cinemas Hibiya &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TOHO Cinemas Hibiya &amp; IMAX |url=https://www.imax.com/theatre/toho-cinemas-hibiya-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Fujisawa, Kanagawa|Fujisawa City]]
+|109 Cinemas Shonan &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Shonan &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-shonan-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.60m×11.50m
+|Yes
+|-
+|[[Kawasaki, Kanagawa|Kawasaki]]
+|109 Cinemas Kawasaki &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Kawasaki &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-kawasaki-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.40m×9.00m
+|Yes
+|-
+|[[Kōtō|Kiba]]
+|109 Cinemas Kiba &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Kiba &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-kiba-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.00m×9.10m
+|Yes
+|-
+|[[Matsudo]]
+|United Cinemas Matsudo &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=United Cinemas Matsudo &amp; IMAX |url=https://www.imax.com/theatre/united-cinemas-matsudo-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Nerima|Nerima-ku]]
+|United Cinemas Toshimaen &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=United Cinemas Toshimaen &amp; IMAX |url=https://www.imax.com/theatre/united-cinemas-toshimaen-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.00m×9.50m
+|Yes
+|-
+|[[Saitama Prefecture|Saitama]]
+|109 Cinemas Shobu &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Shobu &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-shobu-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.40m×9.80m
+|Yes
+|-
+|[[Tokyo]]
+|109 Cinemas Futako Tamagawa &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Futako Tamagawa &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-futako-tamagawa-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.50m×9.90m
+|Yes
+|-
+|[[Tokyo]]
+|109 Cinemas Grandberry Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=109 Cinemas Grandberry Mall &amp; IMAX |url=https://www.imax.com/theatre/109-cinemas-grandberry-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.80m×8.60m
+|Yes
+|-
+|[[Tokyo]]
+|Aeon Chofu &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Aeon Chofu &amp; IMAX |url=https://www.imax.com/theatre/aeon-chofu-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Tokyo]]
+|Grand Cinema Sunshine &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Grand Cinema Sunshine &amp; IMAX |url=https://www.imax.com/theatre/grand-cinema-sunshine-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|25.8m×18.9m
+|Yes
+|-
+|[[Tokyo]]
+|Toho Cinemas Shinjyuku &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Toho Cinemas Shinjyuku &amp; IMAX |url=https://www.imax.com/theatre/toho-cinemas-shinjyuku-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.5m×10.9m
+|Yes
+|-
+|[[Tsuchiura|Tsuchiura-shi]]
+|Cinema Sunshine Tsuchiura &amp; IMAX&lt;ref name="Cinema Sunshine Tsuchiura &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=Cinema Sunshine Tsuchiura &amp; IMAX |url=https://www.imax.com/theatre/cinema-sunshine-tsuchiura-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|16.7m×9.2m
+|Yes
+|-
+|[[Urawa-ku, Saitama|Urawa]]
+|United Cinemas Urawa &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=United Cinemas Urawa &amp; IMAX |url=https://www.imax.com/theatre/united-cinemas-urawa-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.2m×9.2m
+|Yes
+|-
+| rowspan="3" |Kyushu
+|[[Fukuoka]]
+|Aeon Fukuoka &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Aeon Fukuoka &amp; IMAX |url=https://www.imax.com/theatre/aeon-fukuoka-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Hakata-ku, Fukuoka|Hakata-ku]]
+|United Cinemas Canal City 13 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=United Cinemas Canal City 13 &amp; IMAX |url=https://www.imax.com/theatre/united-cinemas-canal-city-13-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.10m×8.40m
+|Yes
+|-
+|[[Kagoshima]]
+|Space Theatre, Municipal Science Hall&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Space Theatre, Municipal Science Hall |url=https://www.imax.com/theatre/space-theatre-municipal-science-hall |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|20.50m
+|
+|-
+| rowspan="2" |Kuwait
+|Ahmadi
+|[[Fahaheel]]
+|Cinescape Al-Kout &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinescape Al-Kout &amp; IMAX |url=https://www.imax.com/theatre/cinescape-al-kout-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.00m×11.80m
+|Yes
+|-
+|Hawalli
+|[[Salmiya]]
+|IMAX, The Scientific Center Kuwait&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, The Scientific Center Kuwait |url=https://www.imax.com/theatre/imax-scientific-center-kuwait |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|20.00m×14.80m
+|No
+|-
+| rowspan="6" |Malaysia
+| rowspan="4" |Kuala Lumpur
+|[[Kuala Lumpur]]
+|Aurum Theatre, The Exchange TRX &amp; IMAX&lt;ref&gt;{{Cite web |date=29 December 2023 |title=Aurum Theatre, The Exchange TRX &amp; IMAX |url=https://www.imax.com/theatre/aurum-theatre-the-exchange-trx-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Kuala Lumpur]]
+|TGV Pavilion Bukit Jalil &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TGV Pavilion Bukit Jalil &amp; IMAX |url=https://www.imax.com/theatre/tgv-pavilion-bukit-jalil-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|20.88mx11.08m
+|Yes
+|-
+|[[Kuala Lumpur]]
+|TGV Sunway Velocity &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TGV Sunway Velocity &amp; IMAX |url=https://www.imax.com/theatre/tgv-sunway-velocity-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|25.90m×19.40m
+|Yes
+|-
+|[[Kuala Lumpur]]
+|TGV Suria KLCC &amp; IMAX&lt;ref&gt;{{Cite web |date=2024-03-19 |title=TGV Suria KLCC &amp; IMAX |url=https://www.imax.com/theatre/tgv-suria-klcc-and-imax |access-date=2024-03-28 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|Selangor
+|[[Petaling Jaya]]
+|TGV 1 Utama &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TGV 1 Utama &amp; IMAX |url=https://www.imax.com/theatre/tgv-1-utama-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|22.00m×12.50m
+|Yes
+|-
+|Putrajaya
+|[[Sepang (town)|Putrajaya]]
+|GSC IOI City Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=GSC IOI City Mall &amp; IMAX |url=https://www.imax.com/theatre/gsc-ioi-city-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="2" |Philippines
+|Western Visayas
+|[[Iloilo City]]
+|SM Iloilo City &amp; IMAX&lt;ref&gt;{{Cite web |date=13 November 2023 |title=SM Iloilo City &amp; IMAX |url=https://www.imax.com/theatre/sm-iloilo-city-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|National Capital Region
+|[[Las Piñas|Las Pinas]]
+|Vista Cinemas &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Vista Cinemas &amp; IMAX |url=https://www.imax.com/theatre/vista-cinemas-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Qatar
+|
+|[[Doha]]
+|Novo Mall Of Qatar &amp; IMAX&lt;ref&gt;{{Cite web |title=Movie Showtimes &amp; Tickets {{!}} undefined {{!}} IMAX |url=https://www.imax.com/theatre/novo-mall-qatar-imax |access-date=4 February 2024 |website=www.imax.com}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|17.90m×9.90m
+|Yes
+|-
+| rowspan="7" |Saudi Arabia
+| rowspan="2" |Eastern Province
+|[[Khobar|Al Khobar]]
+|Science Dome, Sultan Bin Abdulaziz Science &amp; Technology Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Science Dome, Sultan Bin Abdulaziz Science &amp; Technology Center |url=https://www.imax.com/theatre/science-dome-sultan-bin-abdulaziz-science-technology-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX SR Dome 15/70&amp;nbsp;mm
+|20.00m
+|No
+|-
+|[[Hafar al-Batin|Hafr Al Batin]]
+|AMC Hafr Al Batin 8  &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Hafr Al Batin 8 &amp; IMAX |url=https://www.imax.com/theatre/amc-hafr-al-batin-8-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="3" |Mecca Province
+|[[Jeddah]]
+|AMC Stars Avenue 9 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Stars Avenue 9 &amp; IMAX |url=https://www.imax.com/theatre/amc-stars-avenue-9-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Jeddah]]
+|VOX Jeddah Town Square &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=VOX Jeddah Town Square &amp; IMAX |url=https://www.imax.com/theatre/vox-jeddah-town-square-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Jeddah]]
+|VOX Red Sea Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=VOX Red Sea Mall &amp; IMAX |url=https://www.imax.com/theatre/vox-red-sea-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="2" |Riyadh Province
+|[[Riyadh]]
+|AMC Al Khair 9  &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Al Khair 9 &amp; IMAX |url=https://www.imax.com/theatre/amc-al-khair-9-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Riyadh]]
+|Empire Cinemas Rabwa &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Empire Cinemas Rabwa &amp; IMAX |url=https://www.imax.com/theatre/empire-cinemas-rabwa-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="3" |Singapore
+| rowspan="2" |Central Region
+|[[Geylang]]
+|Shaw Paya Lebar Quarter &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shaw Paya Lebar Quarter &amp; IMAX |url=https://www.imax.com/theatre/shaw-paya-lebar-quarter-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Orchard Road|Orchard]]
+|Shaw Theatres Lido &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shaw Theatres Lido &amp; IMAX |url=https://www.imax.com/theatre/shaw-theatres-lido-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.00m×9.00m
+|Yes
+|-
+|East Region
+|[[Changi]]
+|Shaw Theatres Jewel &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shaw Theatres Jewel &amp; IMAX |url=https://www.imax.com/theatre/shaw-theatres-jewel-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="9" |South Korea
+| rowspan="6" |Gyeonggi
+|[[Hwaseong, Gyeonggi|Hwaseong]] 
+|CGV Dongtan &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=CGV Dongtan &amp; IMAX |url=https://www.imax.com/theatre/cgv-dongtan-imax |access-date=2024-02-04 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Pyeongtaek]] 
+|CGV Pyeongtaek &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-13 |title=CGV Pyeongtaek &amp; IMAX |url=https://www.imax.com/theatre/cgv-pyeongtaek-and-imax |access-date=2024-02-06 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Seoul]]
+|CGV Apgujeong &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=CGV Apgujeong &amp; IMAX |url=https://www.imax.com/theatre/cgv-apgujeong-imax |access-date=2024-02-04 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|16.00m×9.00m
+|Yes
+|-
+|[[Seoul]]
+|CGV Yeongdeungpo &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-13 |title=CGV Yeongdeungpo &amp; IMAX |url=https://www.imax.com/theatre/cgv-yeongdeungpo-and-imax |access-date=2024-02-06 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Seoul]]
+|CGV Yongsan I-Park Mall &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CGV Yongsan I-Park Mall &amp; IMAX |url=https://www.imax.com/theatre/cgv-yongsan-i-park-mall-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|31.00m×22.40m
+|Yes
+|-
+|[[Suwon]]
+|CGV Gwangyo &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CGV Gwangyo &amp; IMAX |url=https://www.imax.com/theatre/cgv-gwangyo-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.00m×12.00m
+|Yes
+|-
+| rowspan="2" |Hoseo
+|[[Cheonan]]
+|CGV Cheonon Pentaport &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-13 |title=CGV Cheonon Pentaport &amp; IMAX |url=https://www.imax.com/theatre/cgv-cheonon-and-imax |access-date=2024-02-06 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Daejeon]]
+|CGV Daejeon Terminal &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-13 |title=CGV Daejeon Terminal &amp; IMAX |url=https://www.imax.com/theatre/cgv-daejeon-terminal-and-imax |access-date=2024-02-06 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|16.00m×8.50m
+|Yes
+|-
+|Yeongnam
+|[[Daegu]]
+|CGV Daegu Spectrum City &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CGV Daegu Spectrum City &amp; IMAX |url=https://www.imax.com/theatre/cgv-daegu-spectrum-city-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.30m×12.60m
+|Yes
+|-
+| rowspan="5" |Taiwan
+| rowspan="3" |Northern Taiwan
+|[[New Taipei City|New Taipei]]
+|New Taipei Yulon City VieShow &amp; IMAX&lt;ref&gt;{{Cite web |date=8 November 2023 |title=New Taipei Yulon City VieShow &amp; IMAX |url=https://www.imax.com/theatre/new-taipei-yulon-city-vieshow-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[New Taipei City]]
+|Vie Show Cinemas Banqiao Mega City IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Vie Show Cinemas Banqiao Mega City IMAX |url=https://www.imax.com/theatre/vie-show-cinemas-banqiao-mega-city-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.30m×11.15m
+|Yes
+|-
+|[[Taipei]]
+|Miramar IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Miramar IMAX |url=https://www.imax.com/theatre/miramar-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|28.40m×21.20m
+|Yes
+|-
+| rowspan="2" |Southern Taiwan
+|[[Jiayi City]]
+|IN89 Cinemax Chiayi &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IN89 Cinemax Chiayi &amp; IMAX |url=https://www.imax.com/theatre/in89-cinemax-chiayi-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Kaohsiung]]
+|Kaohsiung Vie Show IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kaohsiung Vie Show IMAX |url=https://www.imax.com/theatre/kaohsiung-vie-show-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×8.20m
+|Yes
+|-
+| rowspan="6" |Thailand
+| rowspan="6" |Central Thailand
+|[[Bangkok]]
+|IMAX at ICON CINECONIC, ICONSIAM&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX at ICON CINECONIC, ICONSIAM |url=https://www.imax.com/theatre/imax-icon-cineconic-iconsiam |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Bangkok]]
+|IMAX, Major Cineplex Ratchayothin&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Krungsri IMAX, Major Cineplex Ratchayothin |url=https://www.imax.com/theatre/krungsri-imax-major-cineplex-ratchayothin |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|24.00m×17.00m
+|Yes
+|-
+|[[Bangkok]]
+|Krungsri IMAX, Paragon Cineplex&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Krungsri IMAX, Paragon Cineplex |url=https://www.imax.com/theatre/krungsri-imax-paragon-cineplex |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|27.30m×19.90m
+|Yes
+|-
+|[[Bangkok]]
+|IMAX Theatre, Quartier Cine-Art&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Toyota IMAX Theatre, Quartier Cine-Art |url=https://www.imax.com/theatre/toyota-imax-theatre-quartier-cine-art |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|25.70m×13.70m
+|Yes
+|-
+|[[Nonthaburi province|Nonthaburi]]
+|Esplanade Cineplex Ngamwongwan-Khaerai &amp; IMAX&lt;ref&gt;{{Cite web |date=20 November 2023 |title=Esplanade Cineplex Ngamwongwan-khae rai &amp; IMAX |url=https://www.imax.com/theatre/esplanade-cineplex-ngamwongwan-khae-rai-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|22.00m×11.00m
+|Yes
+|-
+|[[Samut Prakan province|Samutprakarn]]
+|IMAX Mega Cineplex at Mega Bangna&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Mega Cineplex at Mega Bangna |url=https://www.imax.com/theatre/imax-mega-cineplex-mega-bangna |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|19.60m×10.20m
+|Yes
+|-
+| rowspan="2" |United Arab Emirates
+|Abu Dhabi
+|[[Abu Dhabi]]
+|VOX Al Maryah &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=VOX Al Maryah &amp; IMAX |url=https://www.imax.com/theatre/vox-al-maryah-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Dubai
+|[[Dubai]]
+|VOX Cinemas &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=VOX Cinemas &amp; IMAX |url=https://www.imax.com/theatre/vox-cinemas-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|23.90m×12.70m
+|Yes
+|-
+| rowspan="3" |Vietnam
+| rowspan="3" |Ho Chi Minh City
+|[[Ho Chi Minh City]]
+|CGV Sư Vạn Hạnh &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-07 |title=CGV Su Van Hanh &amp; IMAX |url=https://www.imax.com/en/vn/theatre/cgv-su-van-hanh-and-imax |access-date=2024-03-08 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1:90:1
+|IMAX Laser XT
+|1.90:1
+|
+|21.34m×11.74m
+|Yes
+|-
+|[[Ho Chi Minh City]]
+|CGV AEON Bình Tân &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-07 |title=CGV Aeon Binh Tan &amp; IMAX |url=https://www.imax.com/en/vn/theatre/cgv-aeon-binh-tan-and-imax |access-date=2024-03-08 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1:90:1
+|IMAX Laser XT
+|1.90:1
+|
+|20.65m×11.30m
+|Yes
+|-
+|[[Thủ Đức|Thu Duc]]
+|Galaxy Sala &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-12-18 |title=Galaxy Sala &amp; IMAX |url=https://www.imax.com/en/vn/theatre/galaxy-sala-and-imax |access-date=2024-03-08 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1:90:1
+|IMAX Laser XT
+|1:90:1
+|
+|
+|Yes
+|}
+
+==Oceania==
+{| class="wikitable sortable"
+!Country
+!City
+!Location Name
+!Screen Aspect Ratio (AR)
+!Digital Projector
+!Maximum AR for digital projection
+!Film Projector
+!Screen dimensions
+!Commercial films shown?
+|-
+| rowspan="2" |Australia
+|[[Melbourne]]
+|IMAX, Melbourne Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Melbourne Museum |url=https://www.imax.com/theatre/imax-melbourne-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm, (2D Only)&lt;ref&gt;Single Installed Platter (No 3D).
+
+Our 1570 projector is a dual rotor 3D GT projector - however when we re-instated the projector in 2017 after Laser projectors were already in place, we didn't have enough space to be able to install the 2 x platters required to run films in 3D. As Nolan always shoots for 2D - and with limited film prints available, we are now only able to screen 1570 films in 2D.
+
+Hope this answers your questions
+
+Lauren (she/her)
+
+Duty Manager
+
+IMAX Melbourne
+
+E   info@imaxmelbourne.com.au&lt;/ref&gt;
+|{{convert|32.0|x|23.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|32.0|23.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=IMAX Melbourne |url=https://museumsvictoria.com.au/venues-and-events/spaces-for-hire/imax-melbourne/theatre/ |access-date=2024-02-14 |website=Museums Victoria |language=en}}&lt;/ref&gt;
+|Yes
+|-
+|[[Sydney]]
+|IMAX Sydney&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Sydney |url=https://www.imax.com/theatre/lg-imax-darling-harbour |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|29.0|x|23.8|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|29.0|23.8}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |date=2023-10-27 |last=Buckingham-Jones |first=Sam |title=IMAX reopens in Sydney with a promise for more |url=https://www.afr.com/companies/media-and-marketing/imax-re-opens-in-sydney-with-a-promise-for-more-20231027-p5efmt |access-date=2024-02-14 |website=The Australian Financial Review |language=en}}&lt;/ref&gt;
+|Yes
+|-
+| rowspan="2" |New Zealand
+|[[Auckland]]
+|Event Cinemas Queen Street &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Event Cinemas Queen Street &amp; IMAX |url=https://www.imax.com/theatre/event-cinemas-queen-street-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|27.0 m x 19.9 m 
+|Yes
+|-
+|[[Lower Hutt]]
+|Event Cinemas Queensgate &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Event Cinemas Queensgate &amp; IMAX |url=https://www.imax.com/theatre/event-cinemas-queensgate-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.2 m x 12.5 m
+|Yes
+|}
+
+==Africa==
+{| class="wikitable sortable"
+!Country
+!City
+!Location Name
+!Screen Aspect Ratio (AR)
+!Digital Projector
+!Maximum AR for digital projection
+!Film Projector
+!Screen dimensions
+!Commercial films shown?
+|-
+|Morocco
+|[[Casablanca]]
+|Pathe Californie Casablanca &amp; IMAX&lt;ref&gt;{{Cite web |date=8 November 2023 |title=Pathe Californie Casablanca &amp; IMAX |url=https://www.imax.com/theatre/pathe-california-casablanca-and-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|21.0|x|0|m|abbr=on|disp=br|sigfig=3|ft}}&lt;ref&gt;{{Cite web |title=Aurélien Bosc, président de Pathé Cinémas: "Au Maroc, on ne veut pas des cinémas de luxe, mais des cinémas accessibles" |url=https://fr.le360.ma/culture/aurelien-bosc-president-de-pathe-cinemas-au-maroc-on-ne-veut-pas-des-cinemas-de-luxe-mais-des_GFZK4SU2YBFOPPAXFQT3DTXGL4/ |access-date=2024-02-06 |website=Le 360 Français |language=fr}}&lt;/ref&gt;
+|Yes
+|-
+|South Africa
+|[[Cape Town]]
+|Ster-Kinekor V&amp;A Waterfront &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Ster-Kinekor V&amp;A Waterfront &amp; IMAX |url=https://www.imax.com/theatre/ster-kinekor-va-waterfront-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|}
+
+==Americas==
+{| class="wikitable sortable"
+!Country
+!State
+!City
+!Location Name
+!Screen Aspect Ratio (AR)
+!Digital Projector
+!Maximum AR for digital projection
+!Film Projector
+!Screen dimensions
+!Commercial films shown?
+|-
+|Aruba
+|Oranjestad West
+|[[Eagle Beach]]
+|The Movies IMAX @ Glória&lt;ref name="The Movies IMAX @ Glória"&gt;{{Cite web |date=8 October 2023 |title=The Movies IMAX @ Glória |url=https://www.imax.com/theatre/movies-imax-gl%C3%B3ria |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|22.0|x|13.0|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|22.0|13.0}}|0}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |last=Pinto |first=Juan Luis |date=2020-12-28 |title=Joe Davis, Managing Director Gloria: "Gloria is an entertainment adventure and the most state-of-the-art movie theater in the Caribbean" - Aruba Today |url=https://www.arubatoday.com/joe-davis-managing-director-gloria-gloria-is-an-entertainment-adventure-and-the-most-state-of-the-art-movie-theater-in-the-caribbean-2/,%20https://www.arubatoday.com/joe-davis-managing-director-gloria-gloria-is-an-entertainment-adventure-and-the-most-state-of-the-art-movie-theater-in-the-caribbean-2/ |access-date=2024-02-05 |language=en-US}}&lt;/ref&gt;
+|Yes
+|-
+|Bahamas
+|New Providence
+|[[Nassau, Bahamas|Nassau]]
+|Fusion Superplex &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Fusion Superplex &amp; IMAX |url=https://www.imax.com/theatre/fusion-superplex-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|80.0|x|55.0|ft|abbr=on|disp=br|order=flip|m}} {{convert|{{multiply|80.0|55.0}}|sqft|m2|abbr=on|disp=br|order=flip}}
+&lt;ref&gt;{{Cite web |title=IMAX |url=https://www.fusionsuperplex.com/imax-theatre |access-date=2024-02-05 |website=www.fusionsuperplex.com}}&lt;/ref&gt;
+|Yes
+|-
+|Brazil
+|Southeast
+|[[São Paulo]]
+|Cinépolis Iguatemi &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinépolis Iguatemi &amp; IMAX |url=https://www.imax.com/theatre/cin%C3%A9polis-imax-theatre |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.10m×10.60m
+|Yes
+|-
+| rowspan="22" |Canada
+| rowspan="4" |AB
+|[[Calgary]]
+|Landmark Cinemas 16 Country Hills &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Landmark Cinemas 16 Country Hills &amp; IMAX |url=https://www.imax.com/theatre/landmark-cinemas-16-country-hills-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.00m×10.70m
+|Yes
+|-
+|[[Calgary]]
+|Scotiabank Chinook &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Scotiabank Chinook &amp; IMAX |url=https://www.imax.com/theatre/scotiabank-chinook-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.33m×16.18m
+|Yes
+|-
+|[[Edmonton]]
+|Scotiabank Edmonton &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Scotiabank Edmonton &amp; IMAX |url=https://www.imax.com/theatre/scotiabank-edmonton-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.30m×16.00m
+|Yes
+|-
+|[[Edmonton]]
+|TELUS World of Science – Edmonton IMAX Theatre&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TELUS World of Science – Edmonton IMAX Theatre |url=https://www.imax.com/theatre/telus-world-science-%E2%80%93-edmonton-imax-theatre |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|21.33m×12.80m
+|Limited
+|-
+| rowspan="4" |BC
+|[[Coquitlam]]
+|Cineplex Cinemas Coquitlam &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-11-08 |title=Cineplex Cinemas Coquitlam &amp; IMAX |url=https://www.imax.com/en/ca/theatre/cineplex-cinemas-coquitlam-and-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.53m×10.09m
+60.8 ft. × 33.1 ft.
+|Yes
+|-
+|[[Langley, British Columbia (city)|Langley]]
+|Cineplex Cinemas Langley &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineplex Cinemas Langley &amp; IMAX |url=https://www.imax.com/theatre/cineplex-cinemas-langley-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.30m×16.00m
+|Yes
+|-
+|[[Vancouver]]
+|OMNIMAX Theatre at Science World&lt;ref&gt;{{Cite web |date=8 October 2023 |title=OMNIMAX Theatre at Science World |url=https://www.imax.com/theatre/omnimax-theatre-science-world |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|27.00m
+|
+|-
+|[[Victoria, British Columbia|Victoria]]
+|IMAX Victoria, Royal BC Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Victoria, Royal BC Museum |url=https://www.imax.com/theatre/imax-victoria-royal-bc-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|25.63m×18.68m
+|Yes
+|-
+|NS
+|[[Halifax, Nova Scotia|Halifax]]
+|Scotiabank Halifax &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Scotiabank Halifax &amp; IMAX |url=https://www.imax.com/theatre/scotiabank-halifax-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.79m×16.09m
+|
+|-
+| rowspan="10" |ON
+|[[Ancaster, Ontario|Ancaster]]
+|SilverCity Ancaster Cinemas &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=SilverCity Ancaster Cinemas &amp; IMAX |url=https://www.imax.com/theatre/silvercity-ancaster-cinemas-imax |access-date=2024-03-27 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa&lt;ref&gt;{{Cite web |last=Imgur |title=Cineplex Ancaster IMAX |url=https://imgur.com/a/CoZAtBC |access-date=2024-03-26 |website=Imgur |language=en}}&lt;/ref&gt;
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Kanata, Ontario|Kanata]]
+|Landmark Cinemas 24 Kanata &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Landmark Cinemas 24 Kanata &amp; IMAX |url=https://www.imax.com/en/ca/theatre/landmark-cinemas-24-kanata-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Mississauga]]
+|Cineplex Cinemas Mississauga &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineplex Cinemas Mississauga &amp; IMAX |url=https://www.imax.com/theatre/cineplex-cinemas-mississauga-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.48m×16.09m
+|Yes
+|-
+|[[Sudbury, Ont.|Sudbury]]
+|La Salle IMAX, Science North&lt;ref&gt;{{Cite web |date=8 October 2023 |title=La Salle IMAX, Science North |url=https://www.imax.com/theatre/la-salle-imax-science-north |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|22.10m×16.30m
+|
+|-
+|[[Toronto]]
+|Cinesphere &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinesphere &amp; IMAX |url=https://www.imax.com/theatre/cinesphere-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|24.38m×18.28m
+|
+|-
+|[[Toronto]]
+|Shoppers Drug Mart OMNIMAX, Ontario Science Centre&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Shoppers Drug Mart OMNIMAX, Ontario Science Centre |url=https://www.imax.com/theatre/shoppers-drug-mart-omnimax-ontario-science-centre |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|23.98m
+|
+|-
+|[[Toronto]]
+|Scotiabank Toronto &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Scotiabank Toronto &amp; IMAX |url=https://www.imax.com/theatre/scotiabank-toronto-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|23.77m×18.28m
+|Yes
+|-
+|[[Vaughan]]
+|Cineplex Cinemas Vaughan &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cineplex Cinemas Vaughan &amp; IMAX |url=https://www.imax.com/theatre/cineplex-cinemas-vaughan-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.79m×16.12m
+|Yes
+|-
+|[[Waterloo, Ontario|Waterloo]]
+|Landmark Waterloo &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Landmark Waterloo &amp; IMAX |url=https://www.imax.com/theatre/landmark-waterloo-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Whitby, Ontario|Whitby]]
+|Landmark Cinemas 24 Whitby &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Landmark Cinemas 24 Whitby &amp; IMAX |url=https://www.imax.com/theatre/landmark-cinemas-24-whitby-imax |access-date=2024-02-20 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa&lt;ref&gt;{{Cite web |last=Imgur |title=Landmark Cinemas 24 Whitby &amp; IMAX |url=https://imgur.com/a/Pe3Sy70 |access-date=2024-02-20 |website=Imgur |language=en}}&lt;/ref&gt;
+|1.90:1
+|
+|
+|
+|-
+| rowspan="2" |QC
+|[[Gatineau]]
+|Canadian Museum of History IMAX Dome
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|23.00m
+|No
+|-
+|[[Montreal]]
+|IMAX Telus Montreal Science Centre&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Telus Montreal Science Centre |url=https://www.imax.com/theatre/imax-telus-montreal-science-centre |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|27.73m×21.33m
+|No
+|-
+|SK
+|[[Regina, Saskatchewan|Regina]]
+|Kramer IMAX, Saskatchewan Science Centre&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Kramer IMAX, Saskatchewan Science Centre |url=https://www.imax.com/theatre/kramer-imax-saskatchewan-science-centre |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX SR 15/70&amp;nbsp;mm&lt;ref&gt;{{Cite web |title=The Heart of a Giant: Regina's IMAX projection system |url=https://leaderpost.com/life/qc/the-heart-of-a-giant-reginas-imax-projection-system}}&lt;/ref&gt;
+|21.94m×15.84m
+|Yes
+|-
+| rowspan="2" |Colombia
+|Antioquia
+|[[Envigado]]
+|Cine Colombia Viva Envigado &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Cine Colombia Viva Envigado &amp; IMAX |url=https://www.imax.com/theatre/cine-colombia-viva-envigado-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa&lt;ref&gt;{{Cite web |date=2019-08-30 |title=Películas en proyección láser llegarán a Medellín |url=https://www.rcnradio.com/entretenimiento/cine/peliculas-en-proyeccion-laser-llegaran-medellin |access-date=2024-03-19 |website=RCN Radio |language=es}}&lt;/ref&gt;
+|1.90:1
+|
+|
+|Yes
+|-
+|Bogota
+|[[Bogotá|Bogota]]
+|Multiplex Nuestro Bogota &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Multiplex Nuestro Bogota &amp; IMAX |url=https://www.imax.com/theatre/multiplex-nuestro-bogota-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Curaçao
+|Banda Ariba
+|[[Willemstad]]
+|The Movies Curaçao &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=The Movies Curacao &amp; IMAX |url=https://www.imax.com/theatre/movies-curacao-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Ecuador
+|Pichincha
+|[[Quito]]
+|Supercines Riocentro Quito &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Supercines Riocentro Quito &amp; IMAX |url=https://www.imax.com/theatre/supercines-riocentro-quito-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|23.60m×13.40m
+|
+|-
+| rowspan="2" |Mexico
+|Mexico City
+|[[Mexico City]]
+|Cinemex Antara &amp; IMAX
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|Nuevo León
+|[[Monterrey]]
+|Mega Pantalla IMAX Papalote Monterrey&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Mega Pantalla IMAX Papalote Monterrey |url=https://www.imax.com/theatre/mega-pantalla-imax-papalote-monterrey |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|21.00m×16.00m
+|
+|-
+|Peru
+|Lima
+|[[Lima]]
+|Cinepolis Larcomar &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinepolis Larcomar &amp; IMAX |url=https://www.imax.com/theatre/cinepolis-larcomar-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|
+|-
+| rowspan="136" |United States
+|AL
+|[[Birmingham, Alabama|Birmingham]]
+|IMAX Dome, McWane Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome, McWane Center |url=https://www.imax.com/theatre/imax-dome-mcwane-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|24.00m
+|
+|-
+| rowspan="3" |AZ
+|[[Grand Canyon]]
+|Grand Canyon IMAX, Grand Canyon Visitors Center&lt;ref&gt;{{Cite web |title=Movie Showtimes &amp; Tickets {{!}} undefined {{!}} IMAX |url=https://www.imax.com/theatre/grand-canyon-imax-grand-canyon-visitors-center |access-date=4 February 2024 |website=www.imax.com}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|23.80m×18.00m
+|
+|-
+|[[Phoenix, Arizona|Phoenix]]
+|AMC Deer Valley 30 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Deer Valley 30 &amp; IMAX |url=https://www.imax.com/theatre/amc-deer-valley-30-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.60m×8.70m
+|Yes
+|-
+|[[Tempe, Arizona|Tempe]]
+|Harkins Arizona Mills 25 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Harkins Arizona Mills 25 &amp; IMAX |url=https://www.imax.com/theatre/harkins-arizona-mills-25-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|24.40m×18.30m
+|Yes
+|-
+| rowspan="33" |CA
+|[[Aliso Viejo, California|Aliso Viejo]]
+|Regal Edwards Aliso Viejo &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Aliso Viejo &amp; IMAX |url=https://www.imax.com/theatre/regal-edwards-aliso-viejo-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.50m×10.40m
+|Yes
+|-
+|[[Arcadia, California|Arcadia]]
+|AMC Santa Anita 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Santa Anita 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-santa-anita-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×10.10m
+|Yes
+|-
+|[[Burbank, California|Burbank]]
+|AMC Burbank 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Burbank 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-burbank-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.20m×11.30m
+|Yes
+|-
+|[[Canoga Park, Los Angeles|Canoga Park]]
+|AMC Topanga 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Topanga 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-topanga-12-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[City of Industry, California|City of Industry]]
+|AMC Puente 20 &amp; IMAX&lt;ref name="AMC Puente 20 &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=AMC Puente 20 &amp; IMAX |url=https://www.imax.com/theatre/amc-puente-20-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|17.40m×9.10m
+|Yes
+|-
+|[[Daly City, California|Daly City]]
+|Cinemark Century Daly City 20 &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Cinemark Century Daly City 20 &amp; IMAX |url=https://www.imax.com/theatre/cinemark-century-daly-city-20-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Dublin, California|Dublin]]
+|Regal Hacienda Crossings &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Hacienda Crossings &amp; IMAX |url=https://www.imax.com/theatre/regal-hacienda-crossings-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|23.28m×17.00m
+|Yes
+|-
+|[[Emeryville, California|Emeryville]]
+|AMC Bay Street 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Bay Street 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-bay-street-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.10m×8.80m
+|Yes
+|-
+|[[Fresno, California|Fresno]]
+|Regal Edwards Fresno &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Fresno &amp; IMAX |url=https://www.imax.com/theatre/regal-edwards-fresno-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Glendale, California|Glendale]]
+|AMC The Americana at Brand 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC The Americana at Brand 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-americana-brand-18-imax |access-date=5 March 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Hollywood, Los Angeles|Hollywood]]
+|TCL Chinese Theatres IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=TCL Chinese Theatres IMAX |url=https://www.imax.com/theatre/tcl-chinese-theatres-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm{{efn|1.90:1 screen is masked along the sides to produce a narrower 1.43:1 aspect ratio exclusively for film projection}}, (2D Only)(Temporary)&lt;ref&gt;{{Citation |last=nomad1 |first=Travelling |title=English: Proof that the TCL Chinese theatre IMAX SR projector is temporary via email from the manager |date=2024-02-22 |url=https://commons.wikimedia.org/wiki/File:Proof_that_the_TCL_Chinese_theatre_IMAX_SR_projector_is_temporary.png |access-date=2024-02-22}}&lt;/ref&gt;
+|28.70m×14.00m
+|Yes
+|-
+|[[Irvine, California|Irvine]]
+|Regal Edwards Irvine Spectrum &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Irvine Spectrum &amp; IMAX |url=https://www.imax.com/theatre/regal-edwards-irvine-spectrum-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX 15/70&amp;nbsp;mm
+|26.80m×20.60m
+|Yes
+|-
+|[[Long Beach, California|Long Beach]]
+|Regal Edwards Long Beach &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Long Beach &amp; IMAX |url=https://www.imax.com/theatre/regal-edwards-long-beach-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.50m×10.30m
+|Yes
+|-
+|[[Los Angeles]]
+|AMC Century City 15 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Century City 15 &amp; IMAX |url=https://www.imax.com/theatre/amc-century-city-15-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.80m×9.50m
+|Yes
+|-
+|[[Los Angeles]]
+|AMC The Grove &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC The Grove &amp; IMAX |url=https://www.imax.com/theatre/amc-grove-imax |access-date=5 March 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Los Angeles]]
+|IMAX, California Science Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, California Science Center |url=https://www.imax.com/theatre/imax-california-science-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|27.40m×20.30m
+|
+|-
+|[[Montclair, California|Montclair]]
+|AMC DINE-IN Montclair 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC DINE-IN Montclair 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-dine-montclair-12-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[National City, California|National City]]
+|AMC Plaza Bonita 14 &amp; IMAX&lt;ref name="AMC Plaza Bonita 14 &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=AMC Plaza Bonita 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-plaza-bonita-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.50m×10.00m
+|Yes
+|-
+|[[Newark, California|Newark]]
+|AMC Newpark 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=AMC Newpark 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-newpark-12-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.50m×10.20m
+|Yes
+|-
+|[[Ontario, California|Ontario]]
+|Regal Edwards Ontario Palace &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Ontario Palace &amp; IMAX |url=https://www.imax.com/theatre/regal-edwards-ontario-palace-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|27.10m×20.40m
+|Yes
+|-
+|[[Orange County, California|Orange]]
+|AMC 30 at the Block &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC 30 at the Block &amp; IMAX |url=https://www.imax.com/theatre/amc-30-block-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.40m×8.80m
+|Yes
+|-
+|[[Sacramento, California|Sacramento]]
+|Esquire IMAX Theatre&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Esquire IMAX Theatre |url=https://www.imax.com/theatre/esquire-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|23.10m×18.00m
+|Yes
+|-
+|[[San Diego, California|San Diego]]
+|Fleet Science Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Fleet Science Center |url=https://www.imax.com/theatre/fleet-science-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|23.20m
+|
+|-
+|[[San Francisco]]
+|AMC Metreon 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Metreon 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-loews-metreon-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|29.80m×23.00m
+|Yes
+|-
+|[[San Jose, California|San Jose]]
+|IMAX Dome Theater, The Tech Interactive&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX Dome Theater, The Tech Interactive |url=https://www.imax.com/theatre/imax-dome-theater-tech-interactive |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|25.00m
+|
+|-
+|[[Santa Clara, California|Santa Clara]]
+|AMC Mercado 20 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Mercado 20 &amp; IMAX |url=https://www.imax.com/theatre/amc-mercado-20-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.40m×9.50m
+|Yes
+|-
+|[[South Gate, California|South Gate]]
+|Regal Edwards South Gate &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards South Gate &amp; IMAX |url=https://www.imax.com/theatre/edwards-south-gate-stadium-20-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.70m×11.30m
+|Yes
+|-
+|[[Stockton, California|Stockton]]
+|Regal Stockton City Centre &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Stockton City Centre &amp; IMAX |url=https://www.imax.com/theatre/regal-stockton-city-centre-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.10m×9.60m
+|Yes
+|-
+|[[Sunnyvale, California|Sunnyvale]]
+|AMC DINE-IN Sunnyvale 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC DINE-IN Sunnyvale 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-dine-sunnyvale-12-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Temecula, California|Temecula]]
+|Regal Edwards Temecula &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Temecula &amp; IMAX |url=https://www.imax.com/theatre/edwards-temecula-stadium-15-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.50m×10.20m
+|Yes
+|-
+|[[Torrance, California|Torrance]]
+|AMC Del Amo 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Del Amo 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-del-amo-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×9.80m
+|Yes
+|-
+|[[Universal City, California|Universal City]]
+|Universal Cinema AMC at CityWalk Hollywood &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Universal Cinema AMC at CityWalk Hollywood &amp; IMAX |url=https://www.imax.com/theatre/universal-cinema-amc-citywalk-hollywood-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|24.10m×17.70m
+|Yes
+|-
+|[[Yorba Linda, California|Yorba Linda]]
+|Regal Yorba Linda &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Yorba Linda &amp; IMAX |url=https://www.imax.com/theatre/regal-yorba-linda-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="4" |CO
+|[[Denver]]
+|AMC Orchard 12 &amp; IMAX&lt;ref name="AMC Orchard 12 &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=AMC Orchard 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-orchard-12-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.60m×10.00m
+|Yes
+|-
+|[[Denver]]
+|AMC Westminster Promenade 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=AMC Westminster Promenade 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-westminster-promenade-24 |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×10.60m
+|Yes
+|-
+|[[Highlands Ranch, Colorado|Highlands Ranch]]
+|AMC Highlands Ranch 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Highlands Ranch 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-highlands-ranch-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.50m×10.60m
+|Yes
+|-
+|[[Loveland, Colorado|Loveland]]
+|Metrolux 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Metrolux 12 &amp; IMAX |url=https://www.imax.com/theatre/metrolux-12-imax |access-date=2024-03-20 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|CT
+|[[Milford, Connecticut|Milford]]
+|Cinemark Connecticut Post 14 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinemark Connecticut Post 14 &amp; IMAX |url=https://www.imax.com/theatre/cinemark-connecticut-post-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.20m×10.10m
+|Yes
+|-
+| rowspan="2" |DC
+|[[Washington, D.C.|Washington]]
+|AMC Georgetown 14 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Georgetown 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-georgetown-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|13.70m×7.00m
+|Yes
+|-
+|[[Washington, D.C.|Washington]]
+|Lockheed Martin IMAX, National Air &amp; Space Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Lockheed Martin IMAX, National Air &amp; Space Museum |url=https://www.imax.com/theatre/lockheed-martin-imax-national-air-space-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|23.00m×14.00m
+|
+|-
+| rowspan="12" |FL
+|[[Altamonte Springs, Florida|Altamonte Springs]]
+|AMC Altamonte Mall 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Altamonte Mall 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-altamonte-mall-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.80m×8.70m
+|Yes
+|-
+|[[Aventura, Florida|Aventura]]
+|AMC Aventura 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Aventura 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-aventura-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.90m×9.30m
+|Yes
+|-
+|[[Delray Beach, Florida|Delray Beach]]
+|Paragon Theaters Delray + IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Paragon Theaters Delray + IMAX |url=https://www.imax.com/theatre/paragon-theaters-delray-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|25.90m×16.80m
+|Yes
+|-
+|[[Fort Lauderdale, Florida|Fort Lauderdale]]
+|Autonation IMAX, Museum of Discovery &amp; Science&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Autonation IMAX, Museum of Discovery &amp; Science |url=https://www.imax.com/theatre/autonation-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|24.40m×18.30m
+|Yes
+|-
+|[[Fort Myers, Florida|Fort Myers]]
+|Regal Gulf Coast &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Gulf Coast &amp; IMAX |url=https://www.imax.com/theatre/regal-gulf-coast-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.30m×9.70m
+|Yes
+|-
+|[[Kennedy Space Center]]
+|IMAX, Kennedy Space Center&lt;ref name="IMAX, Kennedy Space Center"&gt;{{Cite web |date=8 October 2023 |title=IMAX, Kennedy Space Center |url=https://www.imax.com/theatre/imax-kennedy-space-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt; 1
+|1.43:1
+|
+|
+|IMAX GT3D 15/70&amp;nbsp;mm
+|21.30m×15.90m
+|No
+|-
+|[[Kennedy Space Center]]
+|IMAX, Kennedy Space Center&lt;ref name="IMAX, Kennedy Space Center"/&gt; 2
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|21.30m×15.90m
+|No
+|-
+|[[Miami]]
+|CMX Dolphin 19 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=CMX Dolphin 19 &amp; IMAX |url=https://www.imax.com/theatre/cmx-dolphin-19-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.20m×8.20m
+|Yes
+|-
+|[[Miami]]
+|Regal Kendall Village &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Kendall Village &amp; IMAX |url=https://www.imax.com/theatre/regal-kendall-village-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.30m×9.50m
+|Yes
+|-
+|[[Naples, Florida|Naples]]
+|Regal Naples &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Naples &amp; IMAX |url=https://www.imax.com/theatre/regal-naples-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[Pembroke Pines, Florida|Pembroke Pines]]
+|AMC Pembroke Lakes 9 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Pembroke Lakes 9 &amp; IMAX |url=https://www.imax.com/theatre/amc-pembroke-lakes-9-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.40m×10.30m
+|Yes
+|-
+|[[Tampa, Florida|Tampa]]
+|AMC Veterans 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Veterans 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-veterans-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.60m×9.80m
+|Yes
+|-
+| rowspan="6" |GA
+|[[Alpharetta, Georgia|Alpharetta]]
+|AMC North Point Mall 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC North Point Mall 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-north-point-mall-12-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.30m×9.10m
+|Yes
+|-
+|[[Atlanta]]
+|Regal Atlantic Station &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Atlantic Station &amp; IMAX |url=https://www.imax.com/theatre/regal-atlantic-station-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.20m×9.70m
+|Yes
+|-
+|[[Buford, Georgia|Buford]]
+|Regal Mall of Georgia &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Mall of Georgia &amp; IMAX |url=https://www.imax.com/theatre/regal-mall-georgia-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|24.80m×18.10m
+|Yes
+|-
+|[[Kennesaw, Georgia|Kennesaw]]
+|AMC Barrett Commons 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Barrett Commons 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-barrett-commons-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.50m×9.40m
+|Yes
+|-
+|[[Morrow, Georgia|Morrow]]
+|AMC Southlake Pavilion 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Southlake Pavilion 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-southlake-pavilion-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.80m×9.90m
+|Yes
+|-
+|[[Pooler, Georgia|Pooler]]
+|Royal Cinemas &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Royal Cinemas &amp; IMAX |url=https://www.imax.com/theatre/royal-cinemas-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|{{convert|101|x|76.2|ft|abbr=on|disp=br|order=flip|m}} {{convert|{{multiply|101|76.2}}|sqft|m2|abbr=on|disp=br|order=flip|round=10}}&lt;ref&gt;{{Cite web |last=Guan |first=Nancy |title=Opening date nears for Pooler IMAX, a movie theater featuring the world's tallest screen |url=https://www.savannahnow.com/story/news/2022/01/25/worlds-largest-imax-theater-pooler-parkway-chatham-county/6614002001/ |access-date=2024-02-06 |website=Savannah Morning News |language=en-US}}&lt;/ref&gt;
+|Yes
+|-
+|IL
+|[[Chicago]]
+|Regal City North &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Regal City North &amp; IMAX |url=https://www.imax.com/theatre/regal-city-north-imax |access-date=2024-04-04 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa&lt;ref&gt;{{Cite web |last=Imgur |title=Regal City North &amp; IMAX upgraded to IMAX with Laser |url=https://imgur.com/a/v4DRDH4 |access-date=2024-04-04 |website=Imgur |language=en}}&lt;/ref&gt;
+|1.90:1
+|
+|15.5m x 9m
+50.7ft x 27.9ft
+|Yes
+|-
+|IN
+|[[Indianapolis]]
+|IMAX, Indiana State Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, Indiana State Museum |url=https://www.imax.com/theatre/imax-indiana-state-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|25.60m×19.20m
+|Yes
+|-
+|IA
+|[[Waukee, Iowa|Waukee]]
+|The Palms Theatre &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=The Palms Theatre &amp; IMAX |url=https://www.imax.com/theatre/palms-theatre-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX GT Laser
+|1.90:1
+|
+|{{convert|28.11|x|14.83|m|abbr=on|disp=br|sigfig=3|ft}} {{convert|{{Round|{{multiply|28.11|14.83}}|-1}}|m2|sqft|abbr=on|disp=br}}&lt;ref&gt;{{Cite web |title=The Palms Theatres &amp; IMAX... - The Palms Theatres &amp; IMAX |url=https://www.facebook.com/PalmsTheatresandIMAX/photos/a.308193993135518/308194039802180/ |access-date=2024-02-04 |website=www.facebook.com |language=en}}&lt;/ref&gt;
+|Yes
+|-
+|LA
+|[[Shreveport, Louisiana|Shreveport]]
+|The Goodman IMAX Dome&lt;ref&gt;{{Cite web |date=8 October 2023 |title=The Goodman IMAX Dome |url=https://www.imax.com/theatre/the-goodman-imax-dome |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|18.30m
+|
+|-
+| rowspan="4" |MD
+|[[Columbia, Maryland|Columbia]]
+|AMC Columbia 14 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Columbia 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-columbia-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×7.30m
+|Yes
+|-
+|[[Frederick, Maryland|Frederick]]
+|Regal Westview &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Westview &amp; IMAX |url=https://www.imax.com/theatre/regal-westview-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|14.30m×7.70m
+|Yes
+|-
+|[[Gaithersburg, Maryland|Gaithersburg]]
+|AMC Rio Cinemas 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Rio Cinemas 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-rio-cinemas-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|13.70m×8.20m
+|Yes
+|-
+|[[Nottingham, Maryland|Nottingham]]
+|AMC White Marsh 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC White Marsh 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-white-marsh-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.20m×8.50m
+|Yes
+|-
+| rowspan="4" |MA
+|[[Boston]]
+|Mugar Omni, Museum of Science&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Mugar Omni, Museum of Science |url=https://www.imax.com/theatre/mugar-omni-museum-science |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|23.20m
+|
+|-
+|[[Methuen, Massachusetts|Methuen]]
+|AMC Methuen 20 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Methuen 20 &amp; IMAX |url=https://www.imax.com/theatre/amc-methuen-20-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.40m×9.40m
+|Yes
+|-
+|[[Reading, Massachusetts|Reading]]
+|Sunbrella IMAX 3D Theater Reading&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Sunbrella IMAX 3D Theater Reading |url=https://www.imax.com/theatre/sunbrella-imax-3d-theater-reading |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|25.70m×20.00m
+|Yes
+|-
+|[[Somerville, Massachusetts|Somerville]]
+|AMC Assembly Row 12 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Assembly Row 12 &amp; IMAX |url=https://www.imax.com/theatre/amc-assembly-row-12 |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.80m×9.40m
+|Yes
+|-
+| rowspan="3" |MI
+|[[Detroit]]
+|Chrysler IMAX Dome Theatre, Michigan Science Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Chrysler IMAX Dome Theatre, Michigan Science Center |url=https://www.imax.com/theatre/chrysler-imax-dome-theatre-michigan-science-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|
+|
+|IMAX GT Dome 15/70&amp;nbsp;mm
+|20.60m
+|
+|-
+|[[Grand Rapids, Michigan|Grand Rapids]]
+|Celebration! Cinema Grand Rapids North &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Celebration! Cinema Grand Rapids North &amp; IMAX |url=https://www.imax.com/theatre/celebration-cinema-grand-rapids-north-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.30m×16.10m
+|Yes
+|-
+|[[Southgate, Michigan|Southgate]]
+|MJR Southgate &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-11-13 |title=MJR Southgate &amp; IMAX |url=https://www.imax.com/theatre/mjr-southgate-and-imax |access-date=2024-03-18 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX Laser XT
+|1.90:1
+|
+|
+|Yes
+|-
+| rowspan="2" |MN
+|[[Roseville, Minnesota|Roseville]]
+|AMC Rosedale 14 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Rosedale 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-rosedale-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.70m×8.80m
+|Yes
+|-
+|[[Saint Paul, Minnesota|St. Paul]]
+|Omnitheater Science Museum of Minnesota&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Omnitheater Science Museum of Minnesota |url=https://www.imax.com/theatre/omnitheater-science-museum-minnesota |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|27.40m
+|
+|-
+| rowspan="3" |MO
+|[[Branson, Missouri|Branson]]
+|Branson's IMAX - Entertainment Complex&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Branson's IMAX - Entertainment Complex |url=https://www.imax.com/theatre/bransons-imax-entertainment-complex |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|25.60m×19.00m
+|Yes
+|-
+|[[Kansas City metropolitan area|Kansas City]]
+|AMC Barry Woods 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Barry Woods 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-barry-woods-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.70m×10.10m
+|Yes
+|-
+|[[St. Louis]]
+|OMNIMAX, St. Louis Science Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=OMNIMAX, St. Louis Science Center |url=https://www.imax.com/theatre/omnimax-st-louis-science-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|24.10m
+|
+|-
+| rowspan="2" |NV
+|[[Las Vegas]]
+|AMC Town Square 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Town Square 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-town-square-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.10m×11.30m
+|Yes
+|-
+|[[North Las Vegas, Nevada|North Las Vegas]]
+|Regal Aliante &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Aliante &amp; IMAX |url=https://www.imax.com/theatre/regal-aliante-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.50m×10.10m
+|Yes
+|-
+| rowspan="5" |NJ
+|[[Cherry Hill, New Jersey|Cherry Hill]]
+|AMC Cherry Hill 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Cherry Hill 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-cherry-hill-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.50m×8.50m
+|Yes
+|-
+|[[Clifton, New Jersey|Clifton]]
+|AMC Clifton Commons 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Clifton Commons 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-clifton-commons-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|13.70m×7.30m
+|Yes
+|-
+|[[New Brunswick, New Jersey|New Brunswick]]
+|AMC New Brunswick 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC New Brunswick 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-loews-new-brunswick-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.80m×9.70m
+|Yes
+|-
+|[[Paramus, New Jersey|Paramus]]
+|AMC Garden State 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Garden State 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-garden-state-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.40m×11.40m
+|Yes
+|-
+|[[Rockaway, New Jersey|Rockaway]]
+|AMC Rockaway 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Rockaway 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-rockaway-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.50m×9.20m
+|Yes
+|-
+| rowspan="9" |NY
+|[[Deer Park, New York|Deer Park]]
+|Regal Deer Park &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Deer Park &amp; IMAX |url=https://www.imax.com/theatre/regal-deer-park-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa&lt;ref&gt;{{Cite web |title=Regal Movies' tweet on Regal Deer Park and New Roc's IMAX projectors |url=https://x.com/RegalMovies/status/1379176451925274627?s=20 |access-date=2024-02-09 |website=X}}&lt;/ref&gt;
+|1.90:1
+|
+|15.20m×9.50m
+|Yes
+|-
+|[[Fresh Meadows, Queens|Fresh Meadows]]
+|AMC Fresh Meadows 7 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Fresh Meadows 7 &amp; IMAX |url=https://www.imax.com/theatre/amc-fresh-meadows-7-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|
+|IMAX CoLa
+|1.90:1
+|
+|
+|Yes
+|-
+|[[New Rochelle, New York|New Rochelle]]
+|Regal New Roc &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal New Roc &amp; IMAX |url=https://www.imax.com/theatre/regal-new-roc-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|24.80m×18.10m
+|Yes
+|-
+|[[New York City|New York]]
+|AMC 34th Street 14 &amp; IMAX&lt;ref name="AMC 34th Street 14 &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=AMC 34th Street 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-34th-street-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.50m×9.20m
+|Yes
+|-
+|[[New York City|New York]]
+|AMC Empire 25 &amp; IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=AMC Empire 25 &amp; IMAX |url=https://www.imax.com/theatre/amc-empire-25-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.70m×8.50m
+|Yes
+|-
+|[[New York City|New York]]
+|AMC Kips Bay 15 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Kips Bay 15 &amp; IMAX |url=https://www.imax.com/theatre/amc-kips-bay-15-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.30m×8.40m
+|Yes
+|-
+|[[New York City|New York]]
+|AMC Lincoln Square 13 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Lincoln Square 13 &amp; IMAX |url=https://www.imax.com/theatre/amc-lincoln-square-13-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|30.78 m × 23.04 m
+101&amp;nbsp;ft × 75.6&amp;nbsp;ft
+|Yes
+|-
+|[[Staten Island]]
+|AMC Staten Island 11 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Staten Island 11 &amp; IMAX |url=https://www.imax.com/theatre/amc-staten-island-11-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.80m×9.40m
+|Yes
+|-
+|[[Stony Brook, New York|Stony Brook]]
+|AMC Stony Brook 17 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Stony Brook 17 &amp; IMAX |url=https://www.imax.com/theatre/amc-stony-brook-17-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×8.50m
+|Yes
+|-
+| rowspan="5" |NC
+|[[Charlotte, North Carolina|Charlotte]]
+|Accenture IMAX Dome Theatre at Discovery Place&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Accenture IMAX Dome Theatre at Discovery Place |url=https://www.imax.com/theatre/accenture-imax-dome-theatre-discovery-place |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|24.10m
+|
+|-
+|[[Concord, North Carolina|Concord]]
+|AMC Concord Mills 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Concord Mills 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-concord-mills-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|14.70m×8.20m
+|Yes
+|-
+|[[Durham, North Carolina|Durham]]
+|AMC Southpoint 17 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Southpoint 17 &amp; IMAX |url=https://www.imax.com/theatre/amc-southpoint-17 |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.10m×10.50m
+|Yes
+|-
+|[[Fayetteville, North Carolina|Fayetteville]]
+|AMC Fayetteville 14 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Fayetteville 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-fayetteville-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.10m×10.90m
+|Yes
+|-
+|[[High Point, North Carolina|High Point]]
+|Regal Palladium &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Palladium &amp; IMAX |url=https://www.imax.com/theatre/regal-palladium-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.20m×9.10m
+|Yes
+|-
+| rowspan="2" |OH
+|[[Cincinnati]]
+|Robert D. Lindner Family OMNIMAX® Theater&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Robert D. Lindner Family OMNIMAX® Theater |url=https://www.imax.com/theatre/robert-d-lindner-family-omnimax%C2%AE-theater |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|Dome 1.43:1
+|IMAX Laser for Dome
+|Dome 1.43:1
+|
+|22.00m
+|
+|-
+|[[Columbus, Ohio|Columbus]]
+|Lennox Town Center &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Lennox Town Center &amp; IMAX |url=https://www.imax.com/theatre/lennox-town-center-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.70m×9.20m
+|Yes
+|-
+|OK
+|[[Moore, Oklahoma|Moore]]
+|Regal Warren Moore &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Warren Moore &amp; IMAX |url=https://www.imax.com/theatre/regal-warren-moore-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|24.40m×18.30m
+|Yes
+|-
+| rowspan="4" |PA
+|[[Bensalem Township, Pennsylvania|Bensalem]]
+|AMC Neshaminy 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Neshaminy 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-neshaminy-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.30m×9.80m
+|Yes
+|-
+|[[King of Prussia, Pennsylvania|King of Prussia]]
+|Regal UA King of Prussia &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal UA King of Prussia &amp; IMAX |url=https://www.imax.com/theatre/regal-ua-king-prussia-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX 15/70&amp;nbsp;mm
+|22.30m×15.90m
+|Yes
+|-
+|[[Warrington Township, Bucks County, Pennsylvania|Warrington]]
+|Regal Warrington Crossing &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Warrington Crossing &amp; IMAX |url=https://www.imax.com/theatre/regal-warrington-crossing-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.80m×8.20m
+|Yes
+|-
+|[[West Homestead, Pennsylvania|West Homestead]]
+|AMC Waterfront 22 &amp; IMAX&lt;ref name="AMC Waterfront 22 &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=AMC Waterfront 22 &amp; IMAX |url=https://www.imax.com/theatre/amc-waterfront-22-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.30m×8.50m
+|Yes
+|-
+|RI
+|[[Providence, Rhode Island|Providence]]
+|Providence Place Cinemas 16 and IMAX&lt;ref&gt;{{Cite web |date=2023-10-08 |title=Providence Place Cinemas 16 and IMAX |url=https://www.imax.com/theatre/providence-place-cinemas-16-and-imax |access-date=2024-03-19 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|24.70m×18.60m
+|Yes
+|-
+| rowspan="4" |TN
+|[[Chattanooga, Tennessee|Chattanooga]]
+|IMAX 3D, Tennessee Aquarium&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX 3D, Tennessee Aquarium |url=https://www.imax.com/theatre/imax-3d-tennessee-aquarium |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|26.60m×21.00m
+|
+|-
+|[[Franklin, Tennessee|Franklin]]
+|AMC Thoroughbred 20 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Thoroughbred 20 &amp; IMAX |url=https://www.imax.com/theatre/amc-thoroughbred-20-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|21.10m×11.60m
+|Yes
+|-
+|[[Knoxville, Tennessee|Knoxville]]
+|Regal Pinnacle &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Pinnacle &amp; IMAX |url=https://www.imax.com/theatre/regal-pinnacle-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|18.60m×11.20m
+|Yes
+|-
+|[[Nashville, Tennessee|Nashville]]
+|Regal Opry Mills &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Opry Mills &amp; IMAX |url=https://www.imax.com/theatre/regal-opry-mills-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|IMAX GT3D 15/70&amp;nbsp;mm
+|27.40m×20.0m
+|Yes
+|-
+| rowspan="11" |TX
+|[[Austin, Texas|Austin]]
+|IMAX, The Bullock Texas State History Museum&lt;ref&gt;{{Cite web |date=8 October 2023 |title=IMAX, The Bullock Texas State History Museum |url=https://www.imax.com/theatre/imax-bullock-texas-state-history-museum |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|25.10m×19.00m
+|Yes
+|-
+|[[Austin, Texas|Austin]]
+|Regal Gateway &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Gateway &amp; IMAX |url=https://www.imax.com/theatre/regal-gateway-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.20m×9.00m
+|Yes
+|-
+|[[Dallas]]
+|AMC Northpark 15 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Northpark 15 &amp; IMAX |url=https://www.imax.com/theatre/amc-northpark-15-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|20.00m×11.10m
+|Yes
+|-
+|[[Dallas]]
+|Cinemark Dallas &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Cinemark Dallas &amp; IMAX |url=https://www.imax.com/theatre/cinemark-dallas-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX SR 15/70&amp;nbsp;mm
+|21.60m×16.10m
+|Yes
+|-
+|[[Edinburg, Texas|Edinburg]]
+|AMC Edinburg 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Edinburg 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-edinburg-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|{{convert|23.0|x|0|m|abbr=on|disp=br|sigfig=3|ft}}
+|Yes
+|-
+|[[Frisco, Texas|Frisco]]
+|AMC Stonebriar 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Stonebriar 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-stonebriar-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.90m×8.80m
+|Yes
+|-
+|[[Houston]]
+|AMC Willowbrook 24 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Willowbrook 24 &amp; IMAX |url=https://www.imax.com/theatre/amc-willowbrook-24-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|17.10m×9.50m
+|Yes
+|-
+|[[Houston]]
+|Regal Edwards Houston Marq*E &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Edwards Houston Marq*E &amp; IMAX |url=https://www.imax.com/theatre/regal-edwards-houston-marqe-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX CoLa
+|1.90:1
+|
+|22.90m×17.40m
+|Yes
+|-
+|[[San Antonio]]
+|AMC Rivercenter 11 &amp; IMAX&lt;ref name="AMC Rivercenter 11 &amp; IMAX"&gt;{{Cite web |date=8 October 2023 |title=AMC Rivercenter 11 &amp; IMAX |url=https://www.imax.com/theatre/amc-rivercenter-11-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt; (Auditorium 10)
+|1.43:1
+|IMAX Digital
+|1.90:1
+|
+|21.30m×16.10m
+|Yes
+|-
+|[[San Antonio]]
+|AMC Rivercenter 11 &amp; IMAX&lt;ref name="AMC Rivercenter 11 &amp; IMAX"/&gt; (Auditorium 11)
+|1.43:1
+|IMAX Digital
+|1.90:1
+|IMAX 15/70&amp;nbsp;mm
+|25.90m×18.90m
+|Yes
+|-
+|[[Shenandoah, Texas|Shenandoah]]
+|AMC Metropark 10 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Metropark 10 &amp; IMAX |url=https://www.imax.com/theatre/amc-metropark-10-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.00m×10.00m
+|Yes
+|-
+| rowspan="6" |VA
+|[[Alexandria, Virginia|Alexandria]]
+|AMC Hoffman 22&lt;ref&gt;{{cite web | url=https://www.imax.com/theatre/amc-hoffman-center-22-imax | title=AMC Hoffman Center 22 &amp; IMAX | date=8 October 2023 }}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa&lt;ref&gt;https://www.amctheatres.com/movie-theatres/washington-d-c/amc-hoffman-center-22&lt;/ref&gt;
+|1.90:1
+|
+|{{convert|51.0|x|28.0|ft|abbr=on|disp=br|order=flip|m}}
+|Yes
+|-
+|[[Ashburn, Virginia|Ashburn]]
+|Regal Fox &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Regal Fox &amp; IMAX |url=https://www.imax.com/theatre/regal-fox-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.80m×9.50m
+|Yes
+|-
+|[[Chantilly, Virginia|Chantilly]]
+|Airbus IMAX, Steven F. Udvar-Hazy Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Airbus IMAX, Steven F. Udvar-Hazy Center |url=https://www.imax.com/theatre/airbus-imax-steven-f-udvar-hazy-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|26.10m×19.00m
+|Yes
+|-
+|[[McLean, Virginia|McLean]]
+|AMC Tysons Corner 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Tysons Corner 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-tysons-corner-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.80m×12.20m
+|Yes
+|-
+|[[Virginia Beach, Virginia|Virginia Beach]]
+|AMC Lynnhaven 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Lynnhaven 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-lynnhaven-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.80m×9.10m
+|Yes
+|-
+|[[Woodbridge, Virginia|Woodbridge]]
+|AMC Potomac Mills 18 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Potomac Mills 18 &amp; IMAX |url=https://www.imax.com/theatre/amc-potomac-mills-18-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|16.00m×9.00m
+|Yes
+|-
+| rowspan="4" |WA
+|[[Kent, Washington|Kent]]
+|AMC Kent Station 14 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Kent Station 14 &amp; IMAX |url=https://www.imax.com/theatre/amc-kent-station-14-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.70m×8.80m
+|Yes
+|-
+|[[Lynnwood, Washington|Lynnwood]]
+|AMC Alderwood Mall 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Alderwood Mall 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-alderwood-mall-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|19.20m×10.70m
+|Yes
+|-
+|[[Seattle]]
+|Boeing IMAX, Pacific Science Center&lt;ref&gt;{{Cite web |date=8 October 2023 |title=Boeing IMAX, Pacific Science Center |url=https://www.imax.com/theatre/boeing-imax-pacific-science-center |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.43:1
+|IMAX GT Laser
+|1.43:1
+|
+|24.40m×18.10m
+|Yes
+|-
+|[[Tukwila, Washington|Tukwila]]
+|AMC Southcenter 16 &amp; IMAX&lt;ref&gt;{{Cite web |date=8 October 2023 |title=AMC Southcenter 16 &amp; IMAX |url=https://www.imax.com/theatre/amc-southcenter-16-imax |access-date=4 February 2024 |website=www.imax.com |language=en}}&lt;/ref&gt;
+|1.90:1
+|IMAX CoLa
+|1.90:1
+|
+|15.80m×8.70m
+|Yes
+|}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://lfexaminer.com/theaters/ Database of large format venues] at ''LF Examiner''
+
+{{Imax}}
+
+{{DEFAULTSORT:Imax Venues}}
+[[Category:IMAX venues| ]]
+[[Category:Lists of cinemas]]</text>
+      <sha1>k8igtzrsnp4r2i3lxaxu0rxpzamqhwm</sha1>
+    </revision>
+  </page>
+</mediawiki>
